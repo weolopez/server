@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/e88fdefc1776013ba142b97db3ee3385e73646b9/promisify-node/index.d.ts",
+    "raw": "registry:dt/promisify-node#0.4.0+20161102133006",
+    "typings": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/e88fdefc1776013ba142b97db3ee3385e73646b9/promisify-node/index.d.ts"
+  }
+}
