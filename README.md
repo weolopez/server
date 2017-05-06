@@ -1,2 +1,2 @@
 # server: auto update when github changes
-log request to console
+log request to console, parse commit
