@@ -62,7 +62,7 @@ const
     ls = spawn( 'git', ['pull'] );
     
 
-console.log( `stderr: ${ls.stderr.toString()}` );
+console.log( `stderror: ${ls.stderr.toString()}` );
 console.log( `stdout: ${ls.stdout.toString()}` );
 
     res.status(200)
