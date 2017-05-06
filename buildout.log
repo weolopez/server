@@ -1,0 +1,123 @@
+[15:11:05] Using gulpfile ~/github/serv/gulpfile.js
+[15:11:05] Starting 'scripts'...
+[15:11:05] Starting 'assets'...
+[15:11:18] TypeScript: 1 semantic error
+[15:11:18] TypeScript: emit succeeded (with errors)
+[15:11:18] Finished 'assets' after 13 s
+[15:11:18] Finished 'scripts' after 14 s
+[15:11:18] Starting 'watch'...
+[15:11:18] Finished 'watch' after 76 ms
+[15:11:18] Starting 'default'...
+[15:11:18] Finished 'default' after 37 μs
+[15:14:01] Starting 'scripts'...
+[15:14:11] TypeScript: 2 semantic errors
+[15:14:11] TypeScript: emit succeeded (with errors)
+[15:14:11] Finished 'scripts' after 10 s
+[15:14:57] Starting 'scripts'...
+[15:15:08] TypeScript: 1 semantic error
+[15:15:08] TypeScript: emit succeeded (with errors)
+[15:15:08] Finished 'scripts' after 10 s
+[15:15:55] Starting 'scripts'...
+[15:16:03] TypeScript: 1 semantic error
+[15:16:03] TypeScript: emit succeeded (with errors)
+[15:16:03] Finished 'scripts' after 7.77 s
+[15:17:22] Starting 'scripts'...
+[15:17:32] TypeScript: 2 semantic errors
+[15:17:32] TypeScript: emit succeeded (with errors)
+[15:17:32] Finished 'scripts' after 10 s
+[15:23:46] Starting 'scripts'...
+[15:23:58] TypeScript: 1 semantic error
+[15:23:58] TypeScript: emit succeeded (with errors)
+[15:23:58] Finished 'scripts' after 12 s
+[15:25:43] Starting 'scripts'...
+[15:25:53] TypeScript: 1 semantic error
+[15:25:53] TypeScript: emit succeeded (with errors)
+[15:25:53] Finished 'scripts' after 10 s
+[15:27:14] Starting 'scripts'...
+[15:27:26] TypeScript: 1 semantic error
+[15:27:26] TypeScript: emit succeeded (with errors)
+[15:27:26] Finished 'scripts' after 12 s
+[15:28:43] Starting 'scripts'...
+[15:28:53] TypeScript: 5 syntax errors
+[15:28:53] TypeScript: 8 semantic errors
+[15:28:53] TypeScript: emit succeeded (with errors)
+[15:28:53] Finished 'scripts' after 9.64 s
+[15:30:06] Starting 'scripts'...
+[15:30:16] TypeScript: 5 syntax errors
+[15:30:16] TypeScript: 7 semantic errors
+[15:30:16] TypeScript: emit succeeded (with errors)
+[15:30:16] Finished 'scripts' after 9.6 s
+[15:30:39] Starting 'scripts'...
+[15:30:49] TypeScript: 5 syntax errors
+[15:30:49] TypeScript: 7 semantic errors
+[15:30:49] TypeScript: emit succeeded (with errors)
+[15:30:49] Finished 'scripts' after 10 s
+[15:31:18] Starting 'scripts'...
+[15:31:26] TypeScript: 5 syntax errors
+[15:31:26] TypeScript: 7 semantic errors
+[15:31:26] TypeScript: emit succeeded (with errors)
+[15:31:26] Finished 'scripts' after 7.87 s
+[15:32:30] Starting 'scripts'...
+[15:32:38] TypeScript: 3 semantic errors
+[15:32:38] TypeScript: emit succeeded (with errors)
+[15:32:38] Finished 'scripts' after 8.44 s
+[15:32:54] Starting 'scripts'...
+[15:33:04] TypeScript: 2 semantic errors
+[15:33:04] TypeScript: emit succeeded (with errors)
+[15:33:04] Finished 'scripts' after 9.76 s
+[15:33:28] Starting 'scripts'...
+[15:33:37] TypeScript: 1 semantic error
+[15:33:37] TypeScript: emit succeeded (with errors)
+[15:33:37] Finished 'scripts' after 8.89 s
+[15:35:17] Starting 'scripts'...
+[15:35:28] TypeScript: 1 semantic error
+[15:35:28] TypeScript: emit succeeded (with errors)
+[15:35:28] Finished 'scripts' after 10 s
+[15:37:32] Starting 'scripts'...
+[15:37:43] TypeScript: 1 semantic error
+[15:37:43] TypeScript: emit succeeded (with errors)
+[15:37:43] Finished 'scripts' after 11 s
+[15:38:48] Starting 'scripts'...
+[15:38:59] TypeScript: 1 semantic error
+[15:38:59] TypeScript: emit succeeded (with errors)
+[15:38:59] Finished 'scripts' after 11 s
+[15:40:25] Starting 'scripts'...
+[15:40:34] TypeScript: 1 semantic error
+[15:40:34] TypeScript: emit succeeded (with errors)
+[15:40:34] Finished 'scripts' after 8.6 s
+[15:41:36] Starting 'scripts'...
+[15:41:46] TypeScript: 1 semantic error
+[15:41:46] TypeScript: emit succeeded (with errors)
+[15:41:46] Finished 'scripts' after 9.87 s
+[15:43:07] Starting 'scripts'...
+[15:43:15] TypeScript: 1 semantic error
+[15:43:15] TypeScript: emit succeeded (with errors)
+[15:43:15] Finished 'scripts' after 8.63 s
+[15:45:09] Starting 'scripts'...
+[15:45:19] TypeScript: 1 semantic error
+[15:45:19] TypeScript: emit succeeded (with errors)
+[15:45:19] Finished 'scripts' after 10 s
+[15:50:29] Starting 'scripts'...
+[15:50:40] TypeScript: 1 semantic error
+[15:50:40] TypeScript: emit succeeded (with errors)
+[15:50:40] Finished 'scripts' after 11 s
+[15:53:11] Starting 'scripts'...
+[15:53:20] TypeScript: 1 semantic error
+[15:53:20] TypeScript: emit succeeded (with errors)
+[15:53:20] Finished 'scripts' after 9.38 s
+[15:58:09] Starting 'scripts'...
+[15:58:21] TypeScript: 1 semantic error
+[15:58:21] TypeScript: emit succeeded (with errors)
+[15:58:21] Finished 'scripts' after 13 s
+[16:01:34] Starting 'scripts'...
+[16:01:45] TypeScript: 1 semantic error
+[16:01:45] TypeScript: emit succeeded (with errors)
+[16:01:45] Finished 'scripts' after 11 s
+[16:38:44] Starting 'scripts'...
+[16:38:55] TypeScript: 1 semantic error
+[16:38:55] TypeScript: emit succeeded (with errors)
+[16:38:55] Finished 'scripts' after 11 s
+[16:40:34] Starting 'scripts'...
+[16:40:43] TypeScript: 1 semantic error
+[16:40:43] TypeScript: emit succeeded (with errors)
+[16:40:43] Finished 'scripts' after 9 s

@@ -1,5 +1,6 @@
 import { Router, Request, Response, NextFunction } from 'express';
-var Git = require("nodegit");
+var Git = require("nodegit")
+, bodyParser = require('body-parser');
 
 const Heroes = require('../data');
 
@@ -23,6 +24,7 @@ export class HeroRouter {
 
   /**
    * GET one hero by id
+
    */
   public getOne(req: Request, res: Response, next: NextFunction) {
     let query = parseInt(req.params.id);
@@ -44,24 +46,46 @@ export class HeroRouter {
     }
   }
 
-  public change(req: Request, res: Response, next: NextFunction) {
 
-    if (req.body.command === 'pull') {
-      Git.Clone("https://github.com/nodegit/nodegit", "nodegit").then(function(repository) {
+  public change(req: Request, res: Response, next: NextFunction) {
+var o = JSON.parse(req.body.payload);
+	
+//traverse(o, process);
+//console.log( JSON.stringify(req.body, 4) );
+    //if (req.body.command === 'pull') {
   // Work with the repository object here.
-      });
-      res.status(200)
-        .send({
-          message: req.body.command,
-          status: res.status
-        });
-    }
-    else res.status(200)
+     // });
+    //}
+//    Git.pull("https://github.com/weolopez/server", "weolopez").then(function(repository) {
+const
+    spawn = require( 'child_process' ).spawnSync,
+    ls = spawn( 'git', ['pull'] );
+    
+
+console.log( `stderr: ${ls.stderr.toString()}` );
+console.log( `stdout: ${ls.stdout.toString()}` );
+
+    res.status(200)
       .send({
-        message: req.body.hello,
+        message: ls.stdout.toString(),
         status: res.status
       });
 
+//called with every property and its value
+function process(key,value) {
+    console.log(key + " : "+value);
+}
+
+ function traverse(o,func) {
+    for (var i in o) {
+        func.apply(this,[i,o[i]]);  
+        if (o[i] !== null && typeof(o[i])=="object") {
+            //going one step down in the object tree!!
+	    console.log('GOING DOWN ANOTHER OBJECT');
+            traverse(o[i],func);
+        }
+    }
+}
   }
 
   /**
@@ -69,6 +93,10 @@ export class HeroRouter {
    * endpoints.
    */
   init() {
+
+    this.router.use(bodyParser.json());
+
+
     this.router.get('/', this.getAll);
     this.router.get('/:id', this.getOne);
     this.router.post('/', this.change);

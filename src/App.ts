@@ -35,7 +35,7 @@ private routes(): void {
   // placeholder route handler
   router.get('/', (req, res, next) => {
     res.json({
-      message: 'Hello World!'
+      message: 'Hello Weo!'
     });
   });
   this.express.use('/', router);

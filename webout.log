@@ -1,0 +1,1018 @@
+[33m[nodemon] 1.11.0[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node dist/index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node dist/index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node dist/index.js`[39m
+{ param1: 'value1', param2: 'value2' }
+stderr: 
+stdout: /home/weolopez/github/serv
+
+[0mPOST /api/v1/heroes [32m200 [0m301.265 ms - 42[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node dist/index.js`[39m
+{ payload: '{"ref":"refs/heads/master","before":"e7e0ed626d863724ce20e9e4ac3db5b140b699f1","after":"514353ea27533fc3626794e67eaecbf5c652f7fc","created":false,"deleted":false,"forced":false,"base_ref":null,"compare":"https://github.com/weolopez/server/compare/e7e0ed626d86...514353ea2753","commits":[{"id":"514353ea27533fc3626794e67eaecbf5c652f7fc","tree_id":"a7a6e82263a88a98079e31e86b175cc0bc2c3130","distinct":true,"message":"Update README.md","timestamp":"2017-05-06T10:52:49-04:00","url":"https://github.com/weolopez/server/commit/514353ea27533fc3626794e67eaecbf5c652f7fc","author":{"name":"Mauricio Lopez","email":"weolopez@gmail.com","username":"weolopez"},"committer":{"name":"GitHub","email":"noreply@github.com","username":"web-flow"},"added":[],"removed":[],"modified":["README.md"]}],"head_commit":{"id":"514353ea27533fc3626794e67eaecbf5c652f7fc","tree_id":"a7a6e82263a88a98079e31e86b175cc0bc2c3130","distinct":true,"message":"Update README.md","timestamp":"2017-05-06T10:52:49-04:00","url":"https://github.com/weolopez/server/commit/514353ea27533fc3626794e67eaecbf5c652f7fc","author":{"name":"Mauricio Lopez","email":"weolopez@gmail.com","username":"weolopez"},"committer":{"name":"GitHub","email":"noreply@github.com","username":"web-flow"},"added":[],"removed":[],"modified":["README.md"]},"repository":{"id":90406666,"name":"server","full_name":"weolopez/server","owner":{"name":"weolopez","email":"weolopez@gmail.com","login":"weolopez","id":1511462,"avatar_url":"https://avatars3.githubusercontent.com/u/1511462?v=3","gravatar_id":"","url":"https://api.github.com/users/weolopez","html_url":"https://github.com/weolopez","followers_url":"https://api.github.com/users/weolopez/followers","following_url":"https://api.github.com/users/weolopez/following{/other_user}","gists_url":"https://api.github.com/users/weolopez/gists{/gist_id}","starred_url":"https://api.github.com/users/weolopez/starred{/owner}{/repo}","subscriptions_url":"https://api.github.com/users/weolopez/subscriptions","organizations_url":"https://api.github.com/users/weolopez/orgs","repos_url":"https://api.github.com/users/weolopez/repos","events_url":"https://api.github.com/users/weolopez/events{/privacy}","received_events_url":"https://api.github.com/users/weolopez/received_events","type":"User","site_admin":false},"private":false,"html_url":"https://github.com/weolopez/server","description":null,"fork":false,"url":"https://github.com/weolopez/server","forks_url":"https://api.github.com/repos/weolopez/server/forks","keys_url":"https://api.github.com/repos/weolopez/server/keys{/key_id}","collaborators_url":"https://api.github.com/repos/weolopez/server/collaborators{/collaborator}","teams_url":"https://api.github.com/repos/weolopez/server/teams","hooks_url":"https://api.github.com/repos/weolopez/server/hooks","issue_events_url":"https://api.github.com/repos/weolopez/server/issues/events{/number}","events_url":"https://api.github.com/repos/weolopez/server/events","assignees_url":"https://api.github.com/repos/weolopez/server/assignees{/user}","branches_url":"https://api.github.com/repos/weolopez/server/branches{/branch}","tags_url":"https://api.github.com/repos/weolopez/server/tags","blobs_url":"https://api.github.com/repos/weolopez/server/git/blobs{/sha}","git_tags_url":"https://api.github.com/repos/weolopez/server/git/tags{/sha}","git_refs_url":"https://api.github.com/repos/weolopez/server/git/refs{/sha}","trees_url":"https://api.github.com/repos/weolopez/server/git/trees{/sha}","statuses_url":"https://api.github.com/repos/weolopez/server/statuses/{sha}","languages_url":"https://api.github.com/repos/weolopez/server/languages","stargazers_url":"https://api.github.com/repos/weolopez/server/stargazers","contributors_url":"https://api.github.com/repos/weolopez/server/contributors","subscribers_url":"https://api.github.com/repos/weolopez/server/subscribers","subscription_url":"https://api.github.com/repos/weolopez/server/subscription","commits_url":"https://api.github.com/repos/weolopez/server/commits{/sha}","git_commits_url":"https://api.github.com/repos/weolopez/server/git/commits{/sha}","comments_url":"https://api.github.com/repos/weolopez/server/comments{/number}","issue_comment_url":"https://api.github.com/repos/weolopez/server/issues/comments{/number}","contents_url":"https://api.github.com/repos/weolopez/server/contents/{+path}","compare_url":"https://api.github.com/repos/weolopez/server/compare/{base}...{head}","merges_url":"https://api.github.com/repos/weolopez/server/merges","archive_url":"https://api.github.com/repos/weolopez/server/{archive_format}{/ref}","downloads_url":"https://api.github.com/repos/weolopez/server/downloads","issues_url":"https://api.github.com/repos/weolopez/server/issues{/number}","pulls_url":"https://api.github.com/repos/weolopez/server/pulls{/number}","milestones_url":"https://api.github.com/repos/weolopez/server/milestones{/number}","notifications_url":"https://api.github.com/repos/weolopez/server/notifications{?since,all,participating}","labels_url":"https://api.github.com/repos/weolopez/server/labels{/name}","releases_url":"https://api.github.com/repos/weolopez/server/releases{/id}","deployments_url":"https://api.github.com/repos/weolopez/server/deployments","created_at":1494009861,"updated_at":"2017-05-05T21:56:01Z","pushed_at":1494082370,"git_url":"git://github.com/weolopez/server.git","ssh_url":"git@github.com:weolopez/server.git","clone_url":"https://github.com/weolopez/server.git","svn_url":"https://github.com/weolopez/server","homepage":null,"size":33,"stargazers_count":0,"watchers_count":0,"language":"TypeScript","has_issues":true,"has_projects":true,"has_downloads":true,"has_wiki":true,"has_pages":false,"forks_count":0,"mirror_url":null,"open_issues_count":0,"forks":0,"open_issues":0,"watchers":0,"default_branch":"master","stargazers":0,"master_branch":"master"},"pusher":{"name":"weolopez","email":"weolopez@gmail.com"},"sender":{"login":"weolopez","id":1511462,"avatar_url":"https://avatars3.githubusercontent.com/u/1511462?v=3","gravatar_id":"","url":"https://api.github.com/users/weolopez","html_url":"https://github.com/weolopez","followers_url":"https://api.github.com/users/weolopez/followers","following_url":"https://api.github.com/users/weolopez/following{/other_user}","gists_url":"https://api.github.com/users/weolopez/gists{/gist_id}","starred_url":"https://api.github.com/users/weolopez/starred{/owner}{/repo}","subscriptions_url":"https://api.github.com/users/weolopez/subscriptions","organizations_url":"https://api.github.com/users/weolopez/orgs","repos_url":"https://api.github.com/users/weolopez/repos","events_url":"https://api.github.com/users/weolopez/events{/privacy}","received_events_url":"https://api.github.com/users/weolopez/received_events","type":"User","site_admin":false}}' }
+stderr: 
+stdout: /home/weolopez/github/serv
+
+[0mPOST /api/v1/heroes [32m200 [0m186.850 ms - 42[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node dist/index.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node dist/index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node dist/index.js`[39m
+{"payload":"{\"ref\":\"refs/heads/master\",\"before\":\"e7e0ed626d863724ce20e9e4ac3db5b140b699f1\",\"after\":\"514353ea27533fc3626794e67eaecbf5c652f7fc\",\"created\":false,\"deleted\":false,\"forced\":false,\"base_ref\":null,\"compare\":\"https://github.com/weolopez/server/compare/e7e0ed626d86...514353ea2753\",\"commits\":[{\"id\":\"514353ea27533fc3626794e67eaecbf5c652f7fc\",\"tree_id\":\"a7a6e82263a88a98079e31e86b175cc0bc2c3130\",\"distinct\":true,\"message\":\"Update README.md\",\"timestamp\":\"2017-05-06T10:52:49-04:00\",\"url\":\"https://github.com/weolopez/server/commit/514353ea27533fc3626794e67eaecbf5c652f7fc\",\"author\":{\"name\":\"Mauricio Lopez\",\"email\":\"weolopez@gmail.com\",\"username\":\"weolopez\"},\"committer\":{\"name\":\"GitHub\",\"email\":\"noreply@github.com\",\"username\":\"web-flow\"},\"added\":[],\"removed\":[],\"modified\":[\"README.md\"]}],\"head_commit\":{\"id\":\"514353ea27533fc3626794e67eaecbf5c652f7fc\",\"tree_id\":\"a7a6e82263a88a98079e31e86b175cc0bc2c3130\",\"distinct\":true,\"message\":\"Update README.md\",\"timestamp\":\"2017-05-06T10:52:49-04:00\",\"url\":\"https://github.com/weolopez/server/commit/514353ea27533fc3626794e67eaecbf5c652f7fc\",\"author\":{\"name\":\"Mauricio Lopez\",\"email\":\"weolopez@gmail.com\",\"username\":\"weolopez\"},\"committer\":{\"name\":\"GitHub\",\"email\":\"noreply@github.com\",\"username\":\"web-flow\"},\"added\":[],\"removed\":[],\"modified\":[\"README.md\"]},\"repository\":{\"id\":90406666,\"name\":\"server\",\"full_name\":\"weolopez/server\",\"owner\":{\"name\":\"weolopez\",\"email\":\"weolopez@gmail.com\",\"login\":\"weolopez\",\"id\":1511462,\"avatar_url\":\"https://avatars3.githubusercontent.com/u/1511462?v=3\",\"gravatar_id\":\"\",\"url\":\"https://api.github.com/users/weolopez\",\"html_url\":\"https://github.com/weolopez\",\"followers_url\":\"https://api.github.com/users/weolopez/followers\",\"following_url\":\"https://api.github.com/users/weolopez/following{/other_user}\",\"gists_url\":\"https://api.github.com/users/weolopez/gists{/gist_id}\",\"starred_url\":\"https://api.github.com/users/weolopez/starred{/owner}{/repo}\",\"subscriptions_url\":\"https://api.github.com/users/weolopez/subscriptions\",\"organizations_url\":\"https://api.github.com/users/weolopez/orgs\",\"repos_url\":\"https://api.github.com/users/weolopez/repos\",\"events_url\":\"https://api.github.com/users/weolopez/events{/privacy}\",\"received_events_url\":\"https://api.github.com/users/weolopez/received_events\",\"type\":\"User\",\"site_admin\":false},\"private\":false,\"html_url\":\"https://github.com/weolopez/server\",\"description\":null,\"fork\":false,\"url\":\"https://github.com/weolopez/server\",\"forks_url\":\"https://api.github.com/repos/weolopez/server/forks\",\"keys_url\":\"https://api.github.com/repos/weolopez/server/keys{/key_id}\",\"collaborators_url\":\"https://api.github.com/repos/weolopez/server/collaborators{/collaborator}\",\"teams_url\":\"https://api.github.com/repos/weolopez/server/teams\",\"hooks_url\":\"https://api.github.com/repos/weolopez/server/hooks\",\"issue_events_url\":\"https://api.github.com/repos/weolopez/server/issues/events{/number}\",\"events_url\":\"https://api.github.com/repos/weolopez/server/events\",\"assignees_url\":\"https://api.github.com/repos/weolopez/server/assignees{/user}\",\"branches_url\":\"https://api.github.com/repos/weolopez/server/branches{/branch}\",\"tags_url\":\"https://api.github.com/repos/weolopez/server/tags\",\"blobs_url\":\"https://api.github.com/repos/weolopez/server/git/blobs{/sha}\",\"git_tags_url\":\"https://api.github.com/repos/weolopez/server/git/tags{/sha}\",\"git_refs_url\":\"https://api.github.com/repos/weolopez/server/git/refs{/sha}\",\"trees_url\":\"https://api.github.com/repos/weolopez/server/git/trees{/sha}\",\"statuses_url\":\"https://api.github.com/repos/weolopez/server/statuses/{sha}\",\"languages_url\":\"https://api.github.com/repos/weolopez/server/languages\",\"stargazers_url\":\"https://api.github.com/repos/weolopez/server/stargazers\",\"contributors_url\":\"https://api.github.com/repos/weolopez/server/contributors\",\"subscribers_url\":\"https://api.github.com/repos/weolopez/server/subscribers\",\"subscription_url\":\"https://api.github.com/repos/weolopez/server/subscription\",\"commits_url\":\"https://api.github.com/repos/weolopez/server/commits{/sha}\",\"git_commits_url\":\"https://api.github.com/repos/weolopez/server/git/commits{/sha}\",\"comments_url\":\"https://api.github.com/repos/weolopez/server/comments{/number}\",\"issue_comment_url\":\"https://api.github.com/repos/weolopez/server/issues/comments{/number}\",\"contents_url\":\"https://api.github.com/repos/weolopez/server/contents/{+path}\",\"compare_url\":\"https://api.github.com/repos/weolopez/server/compare/{base}...{head}\",\"merges_url\":\"https://api.github.com/repos/weolopez/server/merges\",\"archive_url\":\"https://api.github.com/repos/weolopez/server/{archive_format}{/ref}\",\"downloads_url\":\"https://api.github.com/repos/weolopez/server/downloads\",\"issues_url\":\"https://api.github.com/repos/weolopez/server/issues{/number}\",\"pulls_url\":\"https://api.github.com/repos/weolopez/server/pulls{/number}\",\"milestones_url\":\"https://api.github.com/repos/weolopez/server/milestones{/number}\",\"notifications_url\":\"https://api.github.com/repos/weolopez/server/notifications{?since,all,participating}\",\"labels_url\":\"https://api.github.com/repos/weolopez/server/labels{/name}\",\"releases_url\":\"https://api.github.com/repos/weolopez/server/releases{/id}\",\"deployments_url\":\"https://api.github.com/repos/weolopez/server/deployments\",\"created_at\":1494009861,\"updated_at\":\"2017-05-05T21:56:01Z\",\"pushed_at\":1494082370,\"git_url\":\"git://github.com/weolopez/server.git\",\"ssh_url\":\"git@github.com:weolopez/server.git\",\"clone_url\":\"https://github.com/weolopez/server.git\",\"svn_url\":\"https://github.com/weolopez/server\",\"homepage\":null,\"size\":33,\"stargazers_count\":0,\"watchers_count\":0,\"language\":\"TypeScript\",\"has_issues\":true,\"has_projects\":true,\"has_downloads\":true,\"has_wiki\":true,\"has_pages\":false,\"forks_count\":0,\"mirror_url\":null,\"open_issues_count\":0,\"forks\":0,\"open_issues\":0,\"watchers\":0,\"default_branch\":\"master\",\"stargazers\":0,\"master_branch\":\"master\"},\"pusher\":{\"name\":\"weolopez\",\"email\":\"weolopez@gmail.com\"},\"sender\":{\"login\":\"weolopez\",\"id\":1511462,\"avatar_url\":\"https://avatars3.githubusercontent.com/u/1511462?v=3\",\"gravatar_id\":\"\",\"url\":\"https://api.github.com/users/weolopez\",\"html_url\":\"https://github.com/weolopez\",\"followers_url\":\"https://api.github.com/users/weolopez/followers\",\"following_url\":\"https://api.github.com/users/weolopez/following{/other_user}\",\"gists_url\":\"https://api.github.com/users/weolopez/gists{/gist_id}\",\"starred_url\":\"https://api.github.com/users/weolopez/starred{/owner}{/repo}\",\"subscriptions_url\":\"https://api.github.com/users/weolopez/subscriptions\",\"organizations_url\":\"https://api.github.com/users/weolopez/orgs\",\"repos_url\":\"https://api.github.com/users/weolopez/repos\",\"events_url\":\"https://api.github.com/users/weolopez/events{/privacy}\",\"received_events_url\":\"https://api.github.com/users/weolopez/received_events\",\"type\":\"User\",\"site_admin\":false}}"}
+stderr: 
+stdout: /home/weolopez/github/serv
+
+[0mPOST /api/v1/heroes [32m200 [0m173.601 ms - 42[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node dist/index.js`[39m
+[0mPOST /api/v1/heroes [31m500 [0m136.802 ms - 1077[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node dist/index.js`[39m
+{"payload":"{\"ref\":\"refs/heads/master\",\"before\":\"e7e0ed626d863724ce20e9e4ac3db5b140b699f1\",\"after\":\"514353ea27533fc3626794e67eaecbf5c652f7fc\",\"created\":false,\"deleted\":false,\"forced\":false,\"base_ref\":null,\"compare\":\"https://github.com/weolopez/server/compare/e7e0ed626d86...514353ea2753\",\"commits\":[{\"id\":\"514353ea27533fc3626794e67eaecbf5c652f7fc\",\"tree_id\":\"a7a6e82263a88a98079e31e86b175cc0bc2c3130\",\"distinct\":true,\"message\":\"Update README.md\",\"timestamp\":\"2017-05-06T10:52:49-04:00\",\"url\":\"https://github.com/weolopez/server/commit/514353ea27533fc3626794e67eaecbf5c652f7fc\",\"author\":{\"name\":\"Mauricio Lopez\",\"email\":\"weolopez@gmail.com\",\"username\":\"weolopez\"},\"committer\":{\"name\":\"GitHub\",\"email\":\"noreply@github.com\",\"username\":\"web-flow\"},\"added\":[],\"removed\":[],\"modified\":[\"README.md\"]}],\"head_commit\":{\"id\":\"514353ea27533fc3626794e67eaecbf5c652f7fc\",\"tree_id\":\"a7a6e82263a88a98079e31e86b175cc0bc2c3130\",\"distinct\":true,\"message\":\"Update README.md\",\"timestamp\":\"2017-05-06T10:52:49-04:00\",\"url\":\"https://github.com/weolopez/server/commit/514353ea27533fc3626794e67eaecbf5c652f7fc\",\"author\":{\"name\":\"Mauricio Lopez\",\"email\":\"weolopez@gmail.com\",\"username\":\"weolopez\"},\"committer\":{\"name\":\"GitHub\",\"email\":\"noreply@github.com\",\"username\":\"web-flow\"},\"added\":[],\"removed\":[],\"modified\":[\"README.md\"]},\"repository\":{\"id\":90406666,\"name\":\"server\",\"full_name\":\"weolopez/server\",\"owner\":{\"name\":\"weolopez\",\"email\":\"weolopez@gmail.com\",\"login\":\"weolopez\",\"id\":1511462,\"avatar_url\":\"https://avatars3.githubusercontent.com/u/1511462?v=3\",\"gravatar_id\":\"\",\"url\":\"https://api.github.com/users/weolopez\",\"html_url\":\"https://github.com/weolopez\",\"followers_url\":\"https://api.github.com/users/weolopez/followers\",\"following_url\":\"https://api.github.com/users/weolopez/following{/other_user}\",\"gists_url\":\"https://api.github.com/users/weolopez/gists{/gist_id}\",\"starred_url\":\"https://api.github.com/users/weolopez/starred{/owner}{/repo}\",\"subscriptions_url\":\"https://api.github.com/users/weolopez/subscriptions\",\"organizations_url\":\"https://api.github.com/users/weolopez/orgs\",\"repos_url\":\"https://api.github.com/users/weolopez/repos\",\"events_url\":\"https://api.github.com/users/weolopez/events{/privacy}\",\"received_events_url\":\"https://api.github.com/users/weolopez/received_events\",\"type\":\"User\",\"site_admin\":false},\"private\":false,\"html_url\":\"https://github.com/weolopez/server\",\"description\":null,\"fork\":false,\"url\":\"https://github.com/weolopez/server\",\"forks_url\":\"https://api.github.com/repos/weolopez/server/forks\",\"keys_url\":\"https://api.github.com/repos/weolopez/server/keys{/key_id}\",\"collaborators_url\":\"https://api.github.com/repos/weolopez/server/collaborators{/collaborator}\",\"teams_url\":\"https://api.github.com/repos/weolopez/server/teams\",\"hooks_url\":\"https://api.github.com/repos/weolopez/server/hooks\",\"issue_events_url\":\"https://api.github.com/repos/weolopez/server/issues/events{/number}\",\"events_url\":\"https://api.github.com/repos/weolopez/server/events\",\"assignees_url\":\"https://api.github.com/repos/weolopez/server/assignees{/user}\",\"branches_url\":\"https://api.github.com/repos/weolopez/server/branches{/branch}\",\"tags_url\":\"https://api.github.com/repos/weolopez/server/tags\",\"blobs_url\":\"https://api.github.com/repos/weolopez/server/git/blobs{/sha}\",\"git_tags_url\":\"https://api.github.com/repos/weolopez/server/git/tags{/sha}\",\"git_refs_url\":\"https://api.github.com/repos/weolopez/server/git/refs{/sha}\",\"trees_url\":\"https://api.github.com/repos/weolopez/server/git/trees{/sha}\",\"statuses_url\":\"https://api.github.com/repos/weolopez/server/statuses/{sha}\",\"languages_url\":\"https://api.github.com/repos/weolopez/server/languages\",\"stargazers_url\":\"https://api.github.com/repos/weolopez/server/stargazers\",\"contributors_url\":\"https://api.github.com/repos/weolopez/server/contributors\",\"subscribers_url\":\"https://api.github.com/repos/weolopez/server/subscribers\",\"subscription_url\":\"https://api.github.com/repos/weolopez/server/subscription\",\"commits_url\":\"https://api.github.com/repos/weolopez/server/commits{/sha}\",\"git_commits_url\":\"https://api.github.com/repos/weolopez/server/git/commits{/sha}\",\"comments_url\":\"https://api.github.com/repos/weolopez/server/comments{/number}\",\"issue_comment_url\":\"https://api.github.com/repos/weolopez/server/issues/comments{/number}\",\"contents_url\":\"https://api.github.com/repos/weolopez/server/contents/{+path}\",\"compare_url\":\"https://api.github.com/repos/weolopez/server/compare/{base}...{head}\",\"merges_url\":\"https://api.github.com/repos/weolopez/server/merges\",\"archive_url\":\"https://api.github.com/repos/weolopez/server/{archive_format}{/ref}\",\"downloads_url\":\"https://api.github.com/repos/weolopez/server/downloads\",\"issues_url\":\"https://api.github.com/repos/weolopez/server/issues{/number}\",\"pulls_url\":\"https://api.github.com/repos/weolopez/server/pulls{/number}\",\"milestones_url\":\"https://api.github.com/repos/weolopez/server/milestones{/number}\",\"notifications_url\":\"https://api.github.com/repos/weolopez/server/notifications{?since,all,participating}\",\"labels_url\":\"https://api.github.com/repos/weolopez/server/labels{/name}\",\"releases_url\":\"https://api.github.com/repos/weolopez/server/releases{/id}\",\"deployments_url\":\"https://api.github.com/repos/weolopez/server/deployments\",\"created_at\":1494009861,\"updated_at\":\"2017-05-05T21:56:01Z\",\"pushed_at\":1494082370,\"git_url\":\"git://github.com/weolopez/server.git\",\"ssh_url\":\"git@github.com:weolopez/server.git\",\"clone_url\":\"https://github.com/weolopez/server.git\",\"svn_url\":\"https://github.com/weolopez/server\",\"homepage\":null,\"size\":33,\"stargazers_count\":0,\"watchers_count\":0,\"language\":\"TypeScript\",\"has_issues\":true,\"has_projects\":true,\"has_downloads\":true,\"has_wiki\":true,\"has_pages\":false,\"forks_count\":0,\"mirror_url\":null,\"open_issues_count\":0,\"forks\":0,\"open_issues\":0,\"watchers\":0,\"default_branch\":\"master\",\"stargazers\":0,\"master_branch\":\"master\"},\"pusher\":{\"name\":\"weolopez\",\"email\":\"weolopez@gmail.com\"},\"sender\":{\"login\":\"weolopez\",\"id\":1511462,\"avatar_url\":\"https://avatars3.githubusercontent.com/u/1511462?v=3\",\"gravatar_id\":\"\",\"url\":\"https://api.github.com/users/weolopez\",\"html_url\":\"https://github.com/weolopez\",\"followers_url\":\"https://api.github.com/users/weolopez/followers\",\"following_url\":\"https://api.github.com/users/weolopez/following{/other_user}\",\"gists_url\":\"https://api.github.com/users/weolopez/gists{/gist_id}\",\"starred_url\":\"https://api.github.com/users/weolopez/starred{/owner}{/repo}\",\"subscriptions_url\":\"https://api.github.com/users/weolopez/subscriptions\",\"organizations_url\":\"https://api.github.com/users/weolopez/orgs\",\"repos_url\":\"https://api.github.com/users/weolopez/repos\",\"events_url\":\"https://api.github.com/users/weolopez/events{/privacy}\",\"received_events_url\":\"https://api.github.com/users/weolopez/received_events\",\"type\":\"User\",\"site_admin\":false}}"}
+stderr: 
+stdout: /home/weolopez/github/serv
+
+[0mPOST /api/v1/heroes [32m200 [0m160.254 ms - 42[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node dist/index.js`[39m
+[0mPOST /api/v1/heroes [31m500 [0m131.651 ms - 1175[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node dist/index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node dist/index.js`[39m
+payload : {"ref":"refs/heads/master","before":"e7e0ed626d863724ce20e9e4ac3db5b140b699f1","after":"514353ea27533fc3626794e67eaecbf5c652f7fc","created":false,"deleted":false,"forced":false,"base_ref":null,"compare":"https://github.com/weolopez/server/compare/e7e0ed626d86...514353ea2753","commits":[{"id":"514353ea27533fc3626794e67eaecbf5c652f7fc","tree_id":"a7a6e82263a88a98079e31e86b175cc0bc2c3130","distinct":true,"message":"Update README.md","timestamp":"2017-05-06T10:52:49-04:00","url":"https://github.com/weolopez/server/commit/514353ea27533fc3626794e67eaecbf5c652f7fc","author":{"name":"Mauricio Lopez","email":"weolopez@gmail.com","username":"weolopez"},"committer":{"name":"GitHub","email":"noreply@github.com","username":"web-flow"},"added":[],"removed":[],"modified":["README.md"]}],"head_commit":{"id":"514353ea27533fc3626794e67eaecbf5c652f7fc","tree_id":"a7a6e82263a88a98079e31e86b175cc0bc2c3130","distinct":true,"message":"Update README.md","timestamp":"2017-05-06T10:52:49-04:00","url":"https://github.com/weolopez/server/commit/514353ea27533fc3626794e67eaecbf5c652f7fc","author":{"name":"Mauricio Lopez","email":"weolopez@gmail.com","username":"weolopez"},"committer":{"name":"GitHub","email":"noreply@github.com","username":"web-flow"},"added":[],"removed":[],"modified":["README.md"]},"repository":{"id":90406666,"name":"server","full_name":"weolopez/server","owner":{"name":"weolopez","email":"weolopez@gmail.com","login":"weolopez","id":1511462,"avatar_url":"https://avatars3.githubusercontent.com/u/1511462?v=3","gravatar_id":"","url":"https://api.github.com/users/weolopez","html_url":"https://github.com/weolopez","followers_url":"https://api.github.com/users/weolopez/followers","following_url":"https://api.github.com/users/weolopez/following{/other_user}","gists_url":"https://api.github.com/users/weolopez/gists{/gist_id}","starred_url":"https://api.github.com/users/weolopez/starred{/owner}{/repo}","subscriptions_url":"https://api.github.com/users/weolopez/subscriptions","organizations_url":"https://api.github.com/users/weolopez/orgs","repos_url":"https://api.github.com/users/weolopez/repos","events_url":"https://api.github.com/users/weolopez/events{/privacy}","received_events_url":"https://api.github.com/users/weolopez/received_events","type":"User","site_admin":false},"private":false,"html_url":"https://github.com/weolopez/server","description":null,"fork":false,"url":"https://github.com/weolopez/server","forks_url":"https://api.github.com/repos/weolopez/server/forks","keys_url":"https://api.github.com/repos/weolopez/server/keys{/key_id}","collaborators_url":"https://api.github.com/repos/weolopez/server/collaborators{/collaborator}","teams_url":"https://api.github.com/repos/weolopez/server/teams","hooks_url":"https://api.github.com/repos/weolopez/server/hooks","issue_events_url":"https://api.github.com/repos/weolopez/server/issues/events{/number}","events_url":"https://api.github.com/repos/weolopez/server/events","assignees_url":"https://api.github.com/repos/weolopez/server/assignees{/user}","branches_url":"https://api.github.com/repos/weolopez/server/branches{/branch}","tags_url":"https://api.github.com/repos/weolopez/server/tags","blobs_url":"https://api.github.com/repos/weolopez/server/git/blobs{/sha}","git_tags_url":"https://api.github.com/repos/weolopez/server/git/tags{/sha}","git_refs_url":"https://api.github.com/repos/weolopez/server/git/refs{/sha}","trees_url":"https://api.github.com/repos/weolopez/server/git/trees{/sha}","statuses_url":"https://api.github.com/repos/weolopez/server/statuses/{sha}","languages_url":"https://api.github.com/repos/weolopez/server/languages","stargazers_url":"https://api.github.com/repos/weolopez/server/stargazers","contributors_url":"https://api.github.com/repos/weolopez/server/contributors","subscribers_url":"https://api.github.com/repos/weolopez/server/subscribers","subscription_url":"https://api.github.com/repos/weolopez/server/subscription","commits_url":"https://api.github.com/repos/weolopez/server/commits{/sha}","git_commits_url":"https://api.github.com/repos/weolopez/server/git/commits{/sha}","comments_url":"https://api.github.com/repos/weolopez/server/comments{/number}","issue_comment_url":"https://api.github.com/repos/weolopez/server/issues/comments{/number}","contents_url":"https://api.github.com/repos/weolopez/server/contents/{+path}","compare_url":"https://api.github.com/repos/weolopez/server/compare/{base}...{head}","merges_url":"https://api.github.com/repos/weolopez/server/merges","archive_url":"https://api.github.com/repos/weolopez/server/{archive_format}{/ref}","downloads_url":"https://api.github.com/repos/weolopez/server/downloads","issues_url":"https://api.github.com/repos/weolopez/server/issues{/number}","pulls_url":"https://api.github.com/repos/weolopez/server/pulls{/number}","milestones_url":"https://api.github.com/repos/weolopez/server/milestones{/number}","notifications_url":"https://api.github.com/repos/weolopez/server/notifications{?since,all,participating}","labels_url":"https://api.github.com/repos/weolopez/server/labels{/name}","releases_url":"https://api.github.com/repos/weolopez/server/releases{/id}","deployments_url":"https://api.github.com/repos/weolopez/server/deployments","created_at":1494009861,"updated_at":"2017-05-05T21:56:01Z","pushed_at":1494082370,"git_url":"git://github.com/weolopez/server.git","ssh_url":"git@github.com:weolopez/server.git","clone_url":"https://github.com/weolopez/server.git","svn_url":"https://github.com/weolopez/server","homepage":null,"size":33,"stargazers_count":0,"watchers_count":0,"language":"TypeScript","has_issues":true,"has_projects":true,"has_downloads":true,"has_wiki":true,"has_pages":false,"forks_count":0,"mirror_url":null,"open_issues_count":0,"forks":0,"open_issues":0,"watchers":0,"default_branch":"master","stargazers":0,"master_branch":"master"},"pusher":{"name":"weolopez","email":"weolopez@gmail.com"},"sender":{"login":"weolopez","id":1511462,"avatar_url":"https://avatars3.githubusercontent.com/u/1511462?v=3","gravatar_id":"","url":"https://api.github.com/users/weolopez","html_url":"https://github.com/weolopez","followers_url":"https://api.github.com/users/weolopez/followers","following_url":"https://api.github.com/users/weolopez/following{/other_user}","gists_url":"https://api.github.com/users/weolopez/gists{/gist_id}","starred_url":"https://api.github.com/users/weolopez/starred{/owner}{/repo}","subscriptions_url":"https://api.github.com/users/weolopez/subscriptions","organizations_url":"https://api.github.com/users/weolopez/orgs","repos_url":"https://api.github.com/users/weolopez/repos","events_url":"https://api.github.com/users/weolopez/events{/privacy}","received_events_url":"https://api.github.com/users/weolopez/received_events","type":"User","site_admin":false}}
+stderr: 
+stdout: /home/weolopez/github/serv
+
+[0mPOST /api/v1/heroes [32m200 [0m167.258 ms - 42[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node dist/index.js`[39m
+payload : {"ref":"refs/heads/master","before":"e7e0ed626d863724ce20e9e4ac3db5b140b699f1","after":"514353ea27533fc3626794e67eaecbf5c652f7fc","created":false,"deleted":false,"forced":false,"base_ref":null,"compare":"https://github.com/weolopez/server/compare/e7e0ed626d86...514353ea2753","commits":[{"id":"514353ea27533fc3626794e67eaecbf5c652f7fc","tree_id":"a7a6e82263a88a98079e31e86b175cc0bc2c3130","distinct":true,"message":"Update README.md","timestamp":"2017-05-06T10:52:49-04:00","url":"https://github.com/weolopez/server/commit/514353ea27533fc3626794e67eaecbf5c652f7fc","author":{"name":"Mauricio Lopez","email":"weolopez@gmail.com","username":"weolopez"},"committer":{"name":"GitHub","email":"noreply@github.com","username":"web-flow"},"added":[],"removed":[],"modified":["README.md"]}],"head_commit":{"id":"514353ea27533fc3626794e67eaecbf5c652f7fc","tree_id":"a7a6e82263a88a98079e31e86b175cc0bc2c3130","distinct":true,"message":"Update README.md","timestamp":"2017-05-06T10:52:49-04:00","url":"https://github.com/weolopez/server/commit/514353ea27533fc3626794e67eaecbf5c652f7fc","author":{"name":"Mauricio Lopez","email":"weolopez@gmail.com","username":"weolopez"},"committer":{"name":"GitHub","email":"noreply@github.com","username":"web-flow"},"added":[],"removed":[],"modified":["README.md"]},"repository":{"id":90406666,"name":"server","full_name":"weolopez/server","owner":{"name":"weolopez","email":"weolopez@gmail.com","login":"weolopez","id":1511462,"avatar_url":"https://avatars3.githubusercontent.com/u/1511462?v=3","gravatar_id":"","url":"https://api.github.com/users/weolopez","html_url":"https://github.com/weolopez","followers_url":"https://api.github.com/users/weolopez/followers","following_url":"https://api.github.com/users/weolopez/following{/other_user}","gists_url":"https://api.github.com/users/weolopez/gists{/gist_id}","starred_url":"https://api.github.com/users/weolopez/starred{/owner}{/repo}","subscriptions_url":"https://api.github.com/users/weolopez/subscriptions","organizations_url":"https://api.github.com/users/weolopez/orgs","repos_url":"https://api.github.com/users/weolopez/repos","events_url":"https://api.github.com/users/weolopez/events{/privacy}","received_events_url":"https://api.github.com/users/weolopez/received_events","type":"User","site_admin":false},"private":false,"html_url":"https://github.com/weolopez/server","description":null,"fork":false,"url":"https://github.com/weolopez/server","forks_url":"https://api.github.com/repos/weolopez/server/forks","keys_url":"https://api.github.com/repos/weolopez/server/keys{/key_id}","collaborators_url":"https://api.github.com/repos/weolopez/server/collaborators{/collaborator}","teams_url":"https://api.github.com/repos/weolopez/server/teams","hooks_url":"https://api.github.com/repos/weolopez/server/hooks","issue_events_url":"https://api.github.com/repos/weolopez/server/issues/events{/number}","events_url":"https://api.github.com/repos/weolopez/server/events","assignees_url":"https://api.github.com/repos/weolopez/server/assignees{/user}","branches_url":"https://api.github.com/repos/weolopez/server/branches{/branch}","tags_url":"https://api.github.com/repos/weolopez/server/tags","blobs_url":"https://api.github.com/repos/weolopez/server/git/blobs{/sha}","git_tags_url":"https://api.github.com/repos/weolopez/server/git/tags{/sha}","git_refs_url":"https://api.github.com/repos/weolopez/server/git/refs{/sha}","trees_url":"https://api.github.com/repos/weolopez/server/git/trees{/sha}","statuses_url":"https://api.github.com/repos/weolopez/server/statuses/{sha}","languages_url":"https://api.github.com/repos/weolopez/server/languages","stargazers_url":"https://api.github.com/repos/weolopez/server/stargazers","contributors_url":"https://api.github.com/repos/weolopez/server/contributors","subscribers_url":"https://api.github.com/repos/weolopez/server/subscribers","subscription_url":"https://api.github.com/repos/weolopez/server/subscription","commits_url":"https://api.github.com/repos/weolopez/server/commits{/sha}","git_commits_url":"https://api.github.com/repos/weolopez/server/git/commits{/sha}","comments_url":"https://api.github.com/repos/weolopez/server/comments{/number}","issue_comment_url":"https://api.github.com/repos/weolopez/server/issues/comments{/number}","contents_url":"https://api.github.com/repos/weolopez/server/contents/{+path}","compare_url":"https://api.github.com/repos/weolopez/server/compare/{base}...{head}","merges_url":"https://api.github.com/repos/weolopez/server/merges","archive_url":"https://api.github.com/repos/weolopez/server/{archive_format}{/ref}","downloads_url":"https://api.github.com/repos/weolopez/server/downloads","issues_url":"https://api.github.com/repos/weolopez/server/issues{/number}","pulls_url":"https://api.github.com/repos/weolopez/server/pulls{/number}","milestones_url":"https://api.github.com/repos/weolopez/server/milestones{/number}","notifications_url":"https://api.github.com/repos/weolopez/server/notifications{?since,all,participating}","labels_url":"https://api.github.com/repos/weolopez/server/labels{/name}","releases_url":"https://api.github.com/repos/weolopez/server/releases{/id}","deployments_url":"https://api.github.com/repos/weolopez/server/deployments","created_at":1494009861,"updated_at":"2017-05-05T21:56:01Z","pushed_at":1494082370,"git_url":"git://github.com/weolopez/server.git","ssh_url":"git@github.com:weolopez/server.git","clone_url":"https://github.com/weolopez/server.git","svn_url":"https://github.com/weolopez/server","homepage":null,"size":33,"stargazers_count":0,"watchers_count":0,"language":"TypeScript","has_issues":true,"has_projects":true,"has_downloads":true,"has_wiki":true,"has_pages":false,"forks_count":0,"mirror_url":null,"open_issues_count":0,"forks":0,"open_issues":0,"watchers":0,"default_branch":"master","stargazers":0,"master_branch":"master"},"pusher":{"name":"weolopez","email":"weolopez@gmail.com"},"sender":{"login":"weolopez","id":1511462,"avatar_url":"https://avatars3.githubusercontent.com/u/1511462?v=3","gravatar_id":"","url":"https://api.github.com/users/weolopez","html_url":"https://github.com/weolopez","followers_url":"https://api.github.com/users/weolopez/followers","following_url":"https://api.github.com/users/weolopez/following{/other_user}","gists_url":"https://api.github.com/users/weolopez/gists{/gist_id}","starred_url":"https://api.github.com/users/weolopez/starred{/owner}{/repo}","subscriptions_url":"https://api.github.com/users/weolopez/subscriptions","organizations_url":"https://api.github.com/users/weolopez/orgs","repos_url":"https://api.github.com/users/weolopez/repos","events_url":"https://api.github.com/users/weolopez/events{/privacy}","received_events_url":"https://api.github.com/users/weolopez/received_events","type":"User","site_admin":false}}
+
+stderr: 
+stdout: /home/weolopez/github/serv
+
+[0mPOST /api/v1/heroes [32m200 [0m159.459 ms - 42[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node dist/index.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node dist/index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node dist/index.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node dist/index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node dist/index.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node dist/index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node dist/index.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node dist/index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node dist/index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node dist/index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node dist/index.js`[39m
+[0mPOST /api/v1/heroes [31m500 [0m151.954 ms - 1175[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node dist/index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node dist/index.js`[39m
+payload : {"ref":"refs/heads/master","before":"e7e0ed626d863724ce20e9e4ac3db5b140b699f1","after":"514353ea27533fc3626794e67eaecbf5c652f7fc","created":false,"deleted":false,"forced":false,"base_ref":null,"compare":"https://github.com/weolopez/server/compare/e7e0ed626d86...514353ea2753","commits":[{"id":"514353ea27533fc3626794e67eaecbf5c652f7fc","tree_id":"a7a6e82263a88a98079e31e86b175cc0bc2c3130","distinct":true,"message":"Update README.md","timestamp":"2017-05-06T10:52:49-04:00","url":"https://github.com/weolopez/server/commit/514353ea27533fc3626794e67eaecbf5c652f7fc","author":{"name":"Mauricio Lopez","email":"weolopez@gmail.com","username":"weolopez"},"committer":{"name":"GitHub","email":"noreply@github.com","username":"web-flow"},"added":[],"removed":[],"modified":["README.md"]}],"head_commit":{"id":"514353ea27533fc3626794e67eaecbf5c652f7fc","tree_id":"a7a6e82263a88a98079e31e86b175cc0bc2c3130","distinct":true,"message":"Update README.md","timestamp":"2017-05-06T10:52:49-04:00","url":"https://github.com/weolopez/server/commit/514353ea27533fc3626794e67eaecbf5c652f7fc","author":{"name":"Mauricio Lopez","email":"weolopez@gmail.com","username":"weolopez"},"committer":{"name":"GitHub","email":"noreply@github.com","username":"web-flow"},"added":[],"removed":[],"modified":["README.md"]},"repository":{"id":90406666,"name":"server","full_name":"weolopez/server","owner":{"name":"weolopez","email":"weolopez@gmail.com","login":"weolopez","id":1511462,"avatar_url":"https://avatars3.githubusercontent.com/u/1511462?v=3","gravatar_id":"","url":"https://api.github.com/users/weolopez","html_url":"https://github.com/weolopez","followers_url":"https://api.github.com/users/weolopez/followers","following_url":"https://api.github.com/users/weolopez/following{/other_user}","gists_url":"https://api.github.com/users/weolopez/gists{/gist_id}","starred_url":"https://api.github.com/users/weolopez/starred{/owner}{/repo}","subscriptions_url":"https://api.github.com/users/weolopez/subscriptions","organizations_url":"https://api.github.com/users/weolopez/orgs","repos_url":"https://api.github.com/users/weolopez/repos","events_url":"https://api.github.com/users/weolopez/events{/privacy}","received_events_url":"https://api.github.com/users/weolopez/received_events","type":"User","site_admin":false},"private":false,"html_url":"https://github.com/weolopez/server","description":null,"fork":false,"url":"https://github.com/weolopez/server","forks_url":"https://api.github.com/repos/weolopez/server/forks","keys_url":"https://api.github.com/repos/weolopez/server/keys{/key_id}","collaborators_url":"https://api.github.com/repos/weolopez/server/collaborators{/collaborator}","teams_url":"https://api.github.com/repos/weolopez/server/teams","hooks_url":"https://api.github.com/repos/weolopez/server/hooks","issue_events_url":"https://api.github.com/repos/weolopez/server/issues/events{/number}","events_url":"https://api.github.com/repos/weolopez/server/events","assignees_url":"https://api.github.com/repos/weolopez/server/assignees{/user}","branches_url":"https://api.github.com/repos/weolopez/server/branches{/branch}","tags_url":"https://api.github.com/repos/weolopez/server/tags","blobs_url":"https://api.github.com/repos/weolopez/server/git/blobs{/sha}","git_tags_url":"https://api.github.com/repos/weolopez/server/git/tags{/sha}","git_refs_url":"https://api.github.com/repos/weolopez/server/git/refs{/sha}","trees_url":"https://api.github.com/repos/weolopez/server/git/trees{/sha}","statuses_url":"https://api.github.com/repos/weolopez/server/statuses/{sha}","languages_url":"https://api.github.com/repos/weolopez/server/languages","stargazers_url":"https://api.github.com/repos/weolopez/server/stargazers","contributors_url":"https://api.github.com/repos/weolopez/server/contributors","subscribers_url":"https://api.github.com/repos/weolopez/server/subscribers","subscription_url":"https://api.github.com/repos/weolopez/server/subscription","commits_url":"https://api.github.com/repos/weolopez/server/commits{/sha}","git_commits_url":"https://api.github.com/repos/weolopez/server/git/commits{/sha}","comments_url":"https://api.github.com/repos/weolopez/server/comments{/number}","issue_comment_url":"https://api.github.com/repos/weolopez/server/issues/comments{/number}","contents_url":"https://api.github.com/repos/weolopez/server/contents/{+path}","compare_url":"https://api.github.com/repos/weolopez/server/compare/{base}...{head}","merges_url":"https://api.github.com/repos/weolopez/server/merges","archive_url":"https://api.github.com/repos/weolopez/server/{archive_format}{/ref}","downloads_url":"https://api.github.com/repos/weolopez/server/downloads","issues_url":"https://api.github.com/repos/weolopez/server/issues{/number}","pulls_url":"https://api.github.com/repos/weolopez/server/pulls{/number}","milestones_url":"https://api.github.com/repos/weolopez/server/milestones{/number}","notifications_url":"https://api.github.com/repos/weolopez/server/notifications{?since,all,participating}","labels_url":"https://api.github.com/repos/weolopez/server/labels{/name}","releases_url":"https://api.github.com/repos/weolopez/server/releases{/id}","deployments_url":"https://api.github.com/repos/weolopez/server/deployments","created_at":1494009861,"updated_at":"2017-05-05T21:56:01Z","pushed_at":1494082370,"git_url":"git://github.com/weolopez/server.git","ssh_url":"git@github.com:weolopez/server.git","clone_url":"https://github.com/weolopez/server.git","svn_url":"https://github.com/weolopez/server","homepage":null,"size":33,"stargazers_count":0,"watchers_count":0,"language":"TypeScript","has_issues":true,"has_projects":true,"has_downloads":true,"has_wiki":true,"has_pages":false,"forks_count":0,"mirror_url":null,"open_issues_count":0,"forks":0,"open_issues":0,"watchers":0,"default_branch":"master","stargazers":0,"master_branch":"master"},"pusher":{"name":"weolopez","email":"weolopez@gmail.com"},"sender":{"login":"weolopez","id":1511462,"avatar_url":"https://avatars3.githubusercontent.com/u/1511462?v=3","gravatar_id":"","url":"https://api.github.com/users/weolopez","html_url":"https://github.com/weolopez","followers_url":"https://api.github.com/users/weolopez/followers","following_url":"https://api.github.com/users/weolopez/following{/other_user}","gists_url":"https://api.github.com/users/weolopez/gists{/gist_id}","starred_url":"https://api.github.com/users/weolopez/starred{/owner}{/repo}","subscriptions_url":"https://api.github.com/users/weolopez/subscriptions","organizations_url":"https://api.github.com/users/weolopez/orgs","repos_url":"https://api.github.com/users/weolopez/repos","events_url":"https://api.github.com/users/weolopez/events{/privacy}","received_events_url":"https://api.github.com/users/weolopez/received_events","type":"User","site_admin":false}}
+stderr: 
+stdout: /home/weolopez/github/serv
+
+[0mPOST /api/v1/heroes [32m200 [0m173.294 ms - 42[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node dist/index.js`[39m
+HELLO::::payload : {"ref":"refs/heads/master","before":"e7e0ed626d863724ce20e9e4ac3db5b140b699f1","after":"514353ea27533fc3626794e67eaecbf5c652f7fc","created":false,"deleted":false,"forced":false,"base_ref":null,"compare":"https://github.com/weolopez/server/compare/e7e0ed626d86...514353ea2753","commits":[{"id":"514353ea27533fc3626794e67eaecbf5c652f7fc","tree_id":"a7a6e82263a88a98079e31e86b175cc0bc2c3130","distinct":true,"message":"Update README.md","timestamp":"2017-05-06T10:52:49-04:00","url":"https://github.com/weolopez/server/commit/514353ea27533fc3626794e67eaecbf5c652f7fc","author":{"name":"Mauricio Lopez","email":"weolopez@gmail.com","username":"weolopez"},"committer":{"name":"GitHub","email":"noreply@github.com","username":"web-flow"},"added":[],"removed":[],"modified":["README.md"]}],"head_commit":{"id":"514353ea27533fc3626794e67eaecbf5c652f7fc","tree_id":"a7a6e82263a88a98079e31e86b175cc0bc2c3130","distinct":true,"message":"Update README.md","timestamp":"2017-05-06T10:52:49-04:00","url":"https://github.com/weolopez/server/commit/514353ea27533fc3626794e67eaecbf5c652f7fc","author":{"name":"Mauricio Lopez","email":"weolopez@gmail.com","username":"weolopez"},"committer":{"name":"GitHub","email":"noreply@github.com","username":"web-flow"},"added":[],"removed":[],"modified":["README.md"]},"repository":{"id":90406666,"name":"server","full_name":"weolopez/server","owner":{"name":"weolopez","email":"weolopez@gmail.com","login":"weolopez","id":1511462,"avatar_url":"https://avatars3.githubusercontent.com/u/1511462?v=3","gravatar_id":"","url":"https://api.github.com/users/weolopez","html_url":"https://github.com/weolopez","followers_url":"https://api.github.com/users/weolopez/followers","following_url":"https://api.github.com/users/weolopez/following{/other_user}","gists_url":"https://api.github.com/users/weolopez/gists{/gist_id}","starred_url":"https://api.github.com/users/weolopez/starred{/owner}{/repo}","subscriptions_url":"https://api.github.com/users/weolopez/subscriptions","organizations_url":"https://api.github.com/users/weolopez/orgs","repos_url":"https://api.github.com/users/weolopez/repos","events_url":"https://api.github.com/users/weolopez/events{/privacy}","received_events_url":"https://api.github.com/users/weolopez/received_events","type":"User","site_admin":false},"private":false,"html_url":"https://github.com/weolopez/server","description":null,"fork":false,"url":"https://github.com/weolopez/server","forks_url":"https://api.github.com/repos/weolopez/server/forks","keys_url":"https://api.github.com/repos/weolopez/server/keys{/key_id}","collaborators_url":"https://api.github.com/repos/weolopez/server/collaborators{/collaborator}","teams_url":"https://api.github.com/repos/weolopez/server/teams","hooks_url":"https://api.github.com/repos/weolopez/server/hooks","issue_events_url":"https://api.github.com/repos/weolopez/server/issues/events{/number}","events_url":"https://api.github.com/repos/weolopez/server/events","assignees_url":"https://api.github.com/repos/weolopez/server/assignees{/user}","branches_url":"https://api.github.com/repos/weolopez/server/branches{/branch}","tags_url":"https://api.github.com/repos/weolopez/server/tags","blobs_url":"https://api.github.com/repos/weolopez/server/git/blobs{/sha}","git_tags_url":"https://api.github.com/repos/weolopez/server/git/tags{/sha}","git_refs_url":"https://api.github.com/repos/weolopez/server/git/refs{/sha}","trees_url":"https://api.github.com/repos/weolopez/server/git/trees{/sha}","statuses_url":"https://api.github.com/repos/weolopez/server/statuses/{sha}","languages_url":"https://api.github.com/repos/weolopez/server/languages","stargazers_url":"https://api.github.com/repos/weolopez/server/stargazers","contributors_url":"https://api.github.com/repos/weolopez/server/contributors","subscribers_url":"https://api.github.com/repos/weolopez/server/subscribers","subscription_url":"https://api.github.com/repos/weolopez/server/subscription","commits_url":"https://api.github.com/repos/weolopez/server/commits{/sha}","git_commits_url":"https://api.github.com/repos/weolopez/server/git/commits{/sha}","comments_url":"https://api.github.com/repos/weolopez/server/comments{/number}","issue_comment_url":"https://api.github.com/repos/weolopez/server/issues/comments{/number}","contents_url":"https://api.github.com/repos/weolopez/server/contents/{+path}","compare_url":"https://api.github.com/repos/weolopez/server/compare/{base}...{head}","merges_url":"https://api.github.com/repos/weolopez/server/merges","archive_url":"https://api.github.com/repos/weolopez/server/{archive_format}{/ref}","downloads_url":"https://api.github.com/repos/weolopez/server/downloads","issues_url":"https://api.github.com/repos/weolopez/server/issues{/number}","pulls_url":"https://api.github.com/repos/weolopez/server/pulls{/number}","milestones_url":"https://api.github.com/repos/weolopez/server/milestones{/number}","notifications_url":"https://api.github.com/repos/weolopez/server/notifications{?since,all,participating}","labels_url":"https://api.github.com/repos/weolopez/server/labels{/name}","releases_url":"https://api.github.com/repos/weolopez/server/releases{/id}","deployments_url":"https://api.github.com/repos/weolopez/server/deployments","created_at":1494009861,"updated_at":"2017-05-05T21:56:01Z","pushed_at":1494082370,"git_url":"git://github.com/weolopez/server.git","ssh_url":"git@github.com:weolopez/server.git","clone_url":"https://github.com/weolopez/server.git","svn_url":"https://github.com/weolopez/server","homepage":null,"size":33,"stargazers_count":0,"watchers_count":0,"language":"TypeScript","has_issues":true,"has_projects":true,"has_downloads":true,"has_wiki":true,"has_pages":false,"forks_count":0,"mirror_url":null,"open_issues_count":0,"forks":0,"open_issues":0,"watchers":0,"default_branch":"master","stargazers":0,"master_branch":"master"},"pusher":{"name":"weolopez","email":"weolopez@gmail.com"},"sender":{"login":"weolopez","id":1511462,"avatar_url":"https://avatars3.githubusercontent.com/u/1511462?v=3","gravatar_id":"","url":"https://api.github.com/users/weolopez","html_url":"https://github.com/weolopez","followers_url":"https://api.github.com/users/weolopez/followers","following_url":"https://api.github.com/users/weolopez/following{/other_user}","gists_url":"https://api.github.com/users/weolopez/gists{/gist_id}","starred_url":"https://api.github.com/users/weolopez/starred{/owner}{/repo}","subscriptions_url":"https://api.github.com/users/weolopez/subscriptions","organizations_url":"https://api.github.com/users/weolopez/orgs","repos_url":"https://api.github.com/users/weolopez/repos","events_url":"https://api.github.com/users/weolopez/events{/privacy}","received_events_url":"https://api.github.com/users/weolopez/received_events","type":"User","site_admin":false}}
+stderr: 
+stdout: /home/weolopez/github/serv
+
+[0mPOST /api/v1/heroes [32m200 [0m173.466 ms - 42[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node dist/index.js`[39m
+[0mPOST /api/v1/heroes [31m500 [0m130.845 ms - 1077[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node dist/index.js`[39m
+[0mPOST /api/v1/heroes [31m500 [0m130.376 ms - 1158[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node dist/index.js`[39m
+HELLO::::payload : {"ref":"refs/heads/master","before":"e7e0ed626d863724ce20e9e4ac3db5b140b699f1","after":"514353ea27533fc3626794e67eaecbf5c652f7fc","created":false,"deleted":false,"forced":false,"base_ref":null,"compare":"https://github.com/weolopez/server/compare/e7e0ed626d86...514353ea2753","commits":[{"id":"514353ea27533fc3626794e67eaecbf5c652f7fc","tree_id":"a7a6e82263a88a98079e31e86b175cc0bc2c3130","distinct":true,"message":"Update README.md","timestamp":"2017-05-06T10:52:49-04:00","url":"https://github.com/weolopez/server/commit/514353ea27533fc3626794e67eaecbf5c652f7fc","author":{"name":"Mauricio Lopez","email":"weolopez@gmail.com","username":"weolopez"},"committer":{"name":"GitHub","email":"noreply@github.com","username":"web-flow"},"added":[],"removed":[],"modified":["README.md"]}],"head_commit":{"id":"514353ea27533fc3626794e67eaecbf5c652f7fc","tree_id":"a7a6e82263a88a98079e31e86b175cc0bc2c3130","distinct":true,"message":"Update README.md","timestamp":"2017-05-06T10:52:49-04:00","url":"https://github.com/weolopez/server/commit/514353ea27533fc3626794e67eaecbf5c652f7fc","author":{"name":"Mauricio Lopez","email":"weolopez@gmail.com","username":"weolopez"},"committer":{"name":"GitHub","email":"noreply@github.com","username":"web-flow"},"added":[],"removed":[],"modified":["README.md"]},"repository":{"id":90406666,"name":"server","full_name":"weolopez/server","owner":{"name":"weolopez","email":"weolopez@gmail.com","login":"weolopez","id":1511462,"avatar_url":"https://avatars3.githubusercontent.com/u/1511462?v=3","gravatar_id":"","url":"https://api.github.com/users/weolopez","html_url":"https://github.com/weolopez","followers_url":"https://api.github.com/users/weolopez/followers","following_url":"https://api.github.com/users/weolopez/following{/other_user}","gists_url":"https://api.github.com/users/weolopez/gists{/gist_id}","starred_url":"https://api.github.com/users/weolopez/starred{/owner}{/repo}","subscriptions_url":"https://api.github.com/users/weolopez/subscriptions","organizations_url":"https://api.github.com/users/weolopez/orgs","repos_url":"https://api.github.com/users/weolopez/repos","events_url":"https://api.github.com/users/weolopez/events{/privacy}","received_events_url":"https://api.github.com/users/weolopez/received_events","type":"User","site_admin":false},"private":false,"html_url":"https://github.com/weolopez/server","description":null,"fork":false,"url":"https://github.com/weolopez/server","forks_url":"https://api.github.com/repos/weolopez/server/forks","keys_url":"https://api.github.com/repos/weolopez/server/keys{/key_id}","collaborators_url":"https://api.github.com/repos/weolopez/server/collaborators{/collaborator}","teams_url":"https://api.github.com/repos/weolopez/server/teams","hooks_url":"https://api.github.com/repos/weolopez/server/hooks","issue_events_url":"https://api.github.com/repos/weolopez/server/issues/events{/number}","events_url":"https://api.github.com/repos/weolopez/server/events","assignees_url":"https://api.github.com/repos/weolopez/server/assignees{/user}","branches_url":"https://api.github.com/repos/weolopez/server/branches{/branch}","tags_url":"https://api.github.com/repos/weolopez/server/tags","blobs_url":"https://api.github.com/repos/weolopez/server/git/blobs{/sha}","git_tags_url":"https://api.github.com/repos/weolopez/server/git/tags{/sha}","git_refs_url":"https://api.github.com/repos/weolopez/server/git/refs{/sha}","trees_url":"https://api.github.com/repos/weolopez/server/git/trees{/sha}","statuses_url":"https://api.github.com/repos/weolopez/server/statuses/{sha}","languages_url":"https://api.github.com/repos/weolopez/server/languages","stargazers_url":"https://api.github.com/repos/weolopez/server/stargazers","contributors_url":"https://api.github.com/repos/weolopez/server/contributors","subscribers_url":"https://api.github.com/repos/weolopez/server/subscribers","subscription_url":"https://api.github.com/repos/weolopez/server/subscription","commits_url":"https://api.github.com/repos/weolopez/server/commits{/sha}","git_commits_url":"https://api.github.com/repos/weolopez/server/git/commits{/sha}","comments_url":"https://api.github.com/repos/weolopez/server/comments{/number}","issue_comment_url":"https://api.github.com/repos/weolopez/server/issues/comments{/number}","contents_url":"https://api.github.com/repos/weolopez/server/contents/{+path}","compare_url":"https://api.github.com/repos/weolopez/server/compare/{base}...{head}","merges_url":"https://api.github.com/repos/weolopez/server/merges","archive_url":"https://api.github.com/repos/weolopez/server/{archive_format}{/ref}","downloads_url":"https://api.github.com/repos/weolopez/server/downloads","issues_url":"https://api.github.com/repos/weolopez/server/issues{/number}","pulls_url":"https://api.github.com/repos/weolopez/server/pulls{/number}","milestones_url":"https://api.github.com/repos/weolopez/server/milestones{/number}","notifications_url":"https://api.github.com/repos/weolopez/server/notifications{?since,all,participating}","labels_url":"https://api.github.com/repos/weolopez/server/labels{/name}","releases_url":"https://api.github.com/repos/weolopez/server/releases{/id}","deployments_url":"https://api.github.com/repos/weolopez/server/deployments","created_at":1494009861,"updated_at":"2017-05-05T21:56:01Z","pushed_at":1494082370,"git_url":"git://github.com/weolopez/server.git","ssh_url":"git@github.com:weolopez/server.git","clone_url":"https://github.com/weolopez/server.git","svn_url":"https://github.com/weolopez/server","homepage":null,"size":33,"stargazers_count":0,"watchers_count":0,"language":"TypeScript","has_issues":true,"has_projects":true,"has_downloads":true,"has_wiki":true,"has_pages":false,"forks_count":0,"mirror_url":null,"open_issues_count":0,"forks":0,"open_issues":0,"watchers":0,"default_branch":"master","stargazers":0,"master_branch":"master"},"pusher":{"name":"weolopez","email":"weolopez@gmail.com"},"sender":{"login":"weolopez","id":1511462,"avatar_url":"https://avatars3.githubusercontent.com/u/1511462?v=3","gravatar_id":"","url":"https://api.github.com/users/weolopez","html_url":"https://github.com/weolopez","followers_url":"https://api.github.com/users/weolopez/followers","following_url":"https://api.github.com/users/weolopez/following{/other_user}","gists_url":"https://api.github.com/users/weolopez/gists{/gist_id}","starred_url":"https://api.github.com/users/weolopez/starred{/owner}{/repo}","subscriptions_url":"https://api.github.com/users/weolopez/subscriptions","organizations_url":"https://api.github.com/users/weolopez/orgs","repos_url":"https://api.github.com/users/weolopez/repos","events_url":"https://api.github.com/users/weolopez/events{/privacy}","received_events_url":"https://api.github.com/users/weolopez/received_events","type":"User","site_admin":false}}
+stderr: 
+stdout: /home/weolopez/github/serv
+
+[0mPOST /api/v1/heroes [32m200 [0m165.763 ms - 42[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node dist/index.js`[39m
+HELLO::::ref : refs/heads/master
+HELLO::::before : e7e0ed626d863724ce20e9e4ac3db5b140b699f1
+HELLO::::after : 514353ea27533fc3626794e67eaecbf5c652f7fc
+HELLO::::created : false
+HELLO::::deleted : false
+HELLO::::forced : false
+HELLO::::base_ref : null
+HELLO::::compare : https://github.com/weolopez/server/compare/e7e0ed626d86...514353ea2753
+HELLO::::commits : [object Object]
+[0mPOST /api/v1/heroes [31m500 [0m148.725 ms - 1136[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node dist/index.js`[39m
+HELLO::::ref : refs/heads/master
+HELLO::::before : e7e0ed626d863724ce20e9e4ac3db5b140b699f1
+HELLO::::after : 514353ea27533fc3626794e67eaecbf5c652f7fc
+HELLO::::created : false
+HELLO::::deleted : false
+HELLO::::forced : false
+HELLO::::base_ref : null
+HELLO::::compare : https://github.com/weolopez/server/compare/e7e0ed626d86...514353ea2753
+HELLO::::commits : [object Object]
+HELLO::::0 : [object Object]
+HELLO::::id : 514353ea27533fc3626794e67eaecbf5c652f7fc
+HELLO::::tree_id : a7a6e82263a88a98079e31e86b175cc0bc2c3130
+HELLO::::distinct : true
+HELLO::::message : Update README.md
+HELLO::::timestamp : 2017-05-06T10:52:49-04:00
+HELLO::::url : https://github.com/weolopez/server/commit/514353ea27533fc3626794e67eaecbf5c652f7fc
+HELLO::::author : [object Object]
+HELLO::::name : Mauricio Lopez
+HELLO::::email : weolopez@gmail.com
+HELLO::::username : weolopez
+HELLO::::committer : [object Object]
+HELLO::::name : GitHub
+HELLO::::email : noreply@github.com
+HELLO::::username : web-flow
+HELLO::::added : 
+HELLO::::removed : 
+HELLO::::modified : README.md
+HELLO::::0 : README.md
+HELLO::::head_commit : [object Object]
+HELLO::::id : 514353ea27533fc3626794e67eaecbf5c652f7fc
+HELLO::::tree_id : a7a6e82263a88a98079e31e86b175cc0bc2c3130
+HELLO::::distinct : true
+HELLO::::message : Update README.md
+HELLO::::timestamp : 2017-05-06T10:52:49-04:00
+HELLO::::url : https://github.com/weolopez/server/commit/514353ea27533fc3626794e67eaecbf5c652f7fc
+HELLO::::author : [object Object]
+HELLO::::name : Mauricio Lopez
+HELLO::::email : weolopez@gmail.com
+HELLO::::username : weolopez
+HELLO::::committer : [object Object]
+HELLO::::name : GitHub
+HELLO::::email : noreply@github.com
+HELLO::::username : web-flow
+HELLO::::added : 
+HELLO::::removed : 
+HELLO::::modified : README.md
+HELLO::::0 : README.md
+HELLO::::repository : [object Object]
+HELLO::::id : 90406666
+HELLO::::name : server
+HELLO::::full_name : weolopez/server
+HELLO::::owner : [object Object]
+HELLO::::name : weolopez
+HELLO::::email : weolopez@gmail.com
+HELLO::::login : weolopez
+HELLO::::id : 1511462
+HELLO::::avatar_url : https://avatars3.githubusercontent.com/u/1511462?v=3
+HELLO::::gravatar_id : 
+HELLO::::url : https://api.github.com/users/weolopez
+HELLO::::html_url : https://github.com/weolopez
+HELLO::::followers_url : https://api.github.com/users/weolopez/followers
+HELLO::::following_url : https://api.github.com/users/weolopez/following{/other_user}
+HELLO::::gists_url : https://api.github.com/users/weolopez/gists{/gist_id}
+HELLO::::starred_url : https://api.github.com/users/weolopez/starred{/owner}{/repo}
+HELLO::::subscriptions_url : https://api.github.com/users/weolopez/subscriptions
+HELLO::::organizations_url : https://api.github.com/users/weolopez/orgs
+HELLO::::repos_url : https://api.github.com/users/weolopez/repos
+HELLO::::events_url : https://api.github.com/users/weolopez/events{/privacy}
+HELLO::::received_events_url : https://api.github.com/users/weolopez/received_events
+HELLO::::type : User
+HELLO::::site_admin : false
+HELLO::::private : false
+HELLO::::html_url : https://github.com/weolopez/server
+HELLO::::description : null
+HELLO::::fork : false
+HELLO::::url : https://github.com/weolopez/server
+HELLO::::forks_url : https://api.github.com/repos/weolopez/server/forks
+HELLO::::keys_url : https://api.github.com/repos/weolopez/server/keys{/key_id}
+HELLO::::collaborators_url : https://api.github.com/repos/weolopez/server/collaborators{/collaborator}
+HELLO::::teams_url : https://api.github.com/repos/weolopez/server/teams
+HELLO::::hooks_url : https://api.github.com/repos/weolopez/server/hooks
+HELLO::::issue_events_url : https://api.github.com/repos/weolopez/server/issues/events{/number}
+HELLO::::events_url : https://api.github.com/repos/weolopez/server/events
+HELLO::::assignees_url : https://api.github.com/repos/weolopez/server/assignees{/user}
+HELLO::::branches_url : https://api.github.com/repos/weolopez/server/branches{/branch}
+HELLO::::tags_url : https://api.github.com/repos/weolopez/server/tags
+HELLO::::blobs_url : https://api.github.com/repos/weolopez/server/git/blobs{/sha}
+HELLO::::git_tags_url : https://api.github.com/repos/weolopez/server/git/tags{/sha}
+HELLO::::git_refs_url : https://api.github.com/repos/weolopez/server/git/refs{/sha}
+HELLO::::trees_url : https://api.github.com/repos/weolopez/server/git/trees{/sha}
+HELLO::::statuses_url : https://api.github.com/repos/weolopez/server/statuses/{sha}
+HELLO::::languages_url : https://api.github.com/repos/weolopez/server/languages
+HELLO::::stargazers_url : https://api.github.com/repos/weolopez/server/stargazers
+HELLO::::contributors_url : https://api.github.com/repos/weolopez/server/contributors
+HELLO::::subscribers_url : https://api.github.com/repos/weolopez/server/subscribers
+HELLO::::subscription_url : https://api.github.com/repos/weolopez/server/subscription
+HELLO::::commits_url : https://api.github.com/repos/weolopez/server/commits{/sha}
+HELLO::::git_commits_url : https://api.github.com/repos/weolopez/server/git/commits{/sha}
+HELLO::::comments_url : https://api.github.com/repos/weolopez/server/comments{/number}
+HELLO::::issue_comment_url : https://api.github.com/repos/weolopez/server/issues/comments{/number}
+HELLO::::contents_url : https://api.github.com/repos/weolopez/server/contents/{+path}
+HELLO::::compare_url : https://api.github.com/repos/weolopez/server/compare/{base}...{head}
+HELLO::::merges_url : https://api.github.com/repos/weolopez/server/merges
+HELLO::::archive_url : https://api.github.com/repos/weolopez/server/{archive_format}{/ref}
+HELLO::::downloads_url : https://api.github.com/repos/weolopez/server/downloads
+HELLO::::issues_url : https://api.github.com/repos/weolopez/server/issues{/number}
+HELLO::::pulls_url : https://api.github.com/repos/weolopez/server/pulls{/number}
+HELLO::::milestones_url : https://api.github.com/repos/weolopez/server/milestones{/number}
+HELLO::::notifications_url : https://api.github.com/repos/weolopez/server/notifications{?since,all,participating}
+HELLO::::labels_url : https://api.github.com/repos/weolopez/server/labels{/name}
+HELLO::::releases_url : https://api.github.com/repos/weolopez/server/releases{/id}
+HELLO::::deployments_url : https://api.github.com/repos/weolopez/server/deployments
+HELLO::::created_at : 1494009861
+HELLO::::updated_at : 2017-05-05T21:56:01Z
+HELLO::::pushed_at : 1494082370
+HELLO::::git_url : git://github.com/weolopez/server.git
+HELLO::::ssh_url : git@github.com:weolopez/server.git
+HELLO::::clone_url : https://github.com/weolopez/server.git
+HELLO::::svn_url : https://github.com/weolopez/server
+HELLO::::homepage : null
+HELLO::::size : 33
+HELLO::::stargazers_count : 0
+HELLO::::watchers_count : 0
+HELLO::::language : TypeScript
+HELLO::::has_issues : true
+HELLO::::has_projects : true
+HELLO::::has_downloads : true
+HELLO::::has_wiki : true
+HELLO::::has_pages : false
+HELLO::::forks_count : 0
+HELLO::::mirror_url : null
+HELLO::::open_issues_count : 0
+HELLO::::forks : 0
+HELLO::::open_issues : 0
+HELLO::::watchers : 0
+HELLO::::default_branch : master
+HELLO::::stargazers : 0
+HELLO::::master_branch : master
+HELLO::::pusher : [object Object]
+HELLO::::name : weolopez
+HELLO::::email : weolopez@gmail.com
+HELLO::::sender : [object Object]
+HELLO::::login : weolopez
+HELLO::::id : 1511462
+HELLO::::avatar_url : https://avatars3.githubusercontent.com/u/1511462?v=3
+HELLO::::gravatar_id : 
+HELLO::::url : https://api.github.com/users/weolopez
+HELLO::::html_url : https://github.com/weolopez
+HELLO::::followers_url : https://api.github.com/users/weolopez/followers
+HELLO::::following_url : https://api.github.com/users/weolopez/following{/other_user}
+HELLO::::gists_url : https://api.github.com/users/weolopez/gists{/gist_id}
+HELLO::::starred_url : https://api.github.com/users/weolopez/starred{/owner}{/repo}
+HELLO::::subscriptions_url : https://api.github.com/users/weolopez/subscriptions
+HELLO::::organizations_url : https://api.github.com/users/weolopez/orgs
+HELLO::::repos_url : https://api.github.com/users/weolopez/repos
+HELLO::::events_url : https://api.github.com/users/weolopez/events{/privacy}
+HELLO::::received_events_url : https://api.github.com/users/weolopez/received_events
+HELLO::::type : User
+HELLO::::site_admin : false
+stderr: 
+stdout: /home/weolopez/github/serv
+
+[0mPOST /api/v1/heroes [32m200 [0m218.683 ms - 42[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node dist/index.js`[39m
+undefinedref : refs/heads/master
+undefinedbefore : e7e0ed626d863724ce20e9e4ac3db5b140b699f1
+undefinedafter : 514353ea27533fc3626794e67eaecbf5c652f7fc
+undefinedcreated : false
+undefineddeleted : false
+undefinedforced : false
+undefinedbase_ref : null
+undefinedcompare : https://github.com/weolopez/server/compare/e7e0ed626d86...514353ea2753
+undefinedcommits : [object Object]
+undefined0 : [object Object]
+undefinedid : 514353ea27533fc3626794e67eaecbf5c652f7fc
+undefinedtree_id : a7a6e82263a88a98079e31e86b175cc0bc2c3130
+undefineddistinct : true
+undefinedmessage : Update README.md
+undefinedtimestamp : 2017-05-06T10:52:49-04:00
+undefinedurl : https://github.com/weolopez/server/commit/514353ea27533fc3626794e67eaecbf5c652f7fc
+undefinedauthor : [object Object]
+undefinedname : Mauricio Lopez
+undefinedemail : weolopez@gmail.com
+undefinedusername : weolopez
+undefinedcommitter : [object Object]
+undefinedname : GitHub
+undefinedemail : noreply@github.com
+undefinedusername : web-flow
+undefinedadded : 
+undefinedremoved : 
+undefinedmodified : README.md
+undefined0 : README.md
+undefinedhead_commit : [object Object]
+undefinedid : 514353ea27533fc3626794e67eaecbf5c652f7fc
+undefinedtree_id : a7a6e82263a88a98079e31e86b175cc0bc2c3130
+undefineddistinct : true
+undefinedmessage : Update README.md
+undefinedtimestamp : 2017-05-06T10:52:49-04:00
+undefinedurl : https://github.com/weolopez/server/commit/514353ea27533fc3626794e67eaecbf5c652f7fc
+undefinedauthor : [object Object]
+undefinedname : Mauricio Lopez
+undefinedemail : weolopez@gmail.com
+undefinedusername : weolopez
+undefinedcommitter : [object Object]
+undefinedname : GitHub
+undefinedemail : noreply@github.com
+undefinedusername : web-flow
+undefinedadded : 
+undefinedremoved : 
+undefinedmodified : README.md
+undefined0 : README.md
+undefinedrepository : [object Object]
+undefinedid : 90406666
+undefinedname : server
+undefinedfull_name : weolopez/server
+undefinedowner : [object Object]
+undefinedname : weolopez
+undefinedemail : weolopez@gmail.com
+undefinedlogin : weolopez
+undefinedid : 1511462
+undefinedavatar_url : https://avatars3.githubusercontent.com/u/1511462?v=3
+undefinedgravatar_id : 
+undefinedurl : https://api.github.com/users/weolopez
+undefinedhtml_url : https://github.com/weolopez
+undefinedfollowers_url : https://api.github.com/users/weolopez/followers
+undefinedfollowing_url : https://api.github.com/users/weolopez/following{/other_user}
+undefinedgists_url : https://api.github.com/users/weolopez/gists{/gist_id}
+undefinedstarred_url : https://api.github.com/users/weolopez/starred{/owner}{/repo}
+undefinedsubscriptions_url : https://api.github.com/users/weolopez/subscriptions
+undefinedorganizations_url : https://api.github.com/users/weolopez/orgs
+undefinedrepos_url : https://api.github.com/users/weolopez/repos
+undefinedevents_url : https://api.github.com/users/weolopez/events{/privacy}
+undefinedreceived_events_url : https://api.github.com/users/weolopez/received_events
+undefinedtype : User
+undefinedsite_admin : false
+undefinedprivate : false
+undefinedhtml_url : https://github.com/weolopez/server
+undefineddescription : null
+undefinedfork : false
+undefinedurl : https://github.com/weolopez/server
+undefinedforks_url : https://api.github.com/repos/weolopez/server/forks
+undefinedkeys_url : https://api.github.com/repos/weolopez/server/keys{/key_id}
+undefinedcollaborators_url : https://api.github.com/repos/weolopez/server/collaborators{/collaborator}
+undefinedteams_url : https://api.github.com/repos/weolopez/server/teams
+undefinedhooks_url : https://api.github.com/repos/weolopez/server/hooks
+undefinedissue_events_url : https://api.github.com/repos/weolopez/server/issues/events{/number}
+undefinedevents_url : https://api.github.com/repos/weolopez/server/events
+undefinedassignees_url : https://api.github.com/repos/weolopez/server/assignees{/user}
+undefinedbranches_url : https://api.github.com/repos/weolopez/server/branches{/branch}
+undefinedtags_url : https://api.github.com/repos/weolopez/server/tags
+undefinedblobs_url : https://api.github.com/repos/weolopez/server/git/blobs{/sha}
+undefinedgit_tags_url : https://api.github.com/repos/weolopez/server/git/tags{/sha}
+undefinedgit_refs_url : https://api.github.com/repos/weolopez/server/git/refs{/sha}
+undefinedtrees_url : https://api.github.com/repos/weolopez/server/git/trees{/sha}
+undefinedstatuses_url : https://api.github.com/repos/weolopez/server/statuses/{sha}
+undefinedlanguages_url : https://api.github.com/repos/weolopez/server/languages
+undefinedstargazers_url : https://api.github.com/repos/weolopez/server/stargazers
+undefinedcontributors_url : https://api.github.com/repos/weolopez/server/contributors
+undefinedsubscribers_url : https://api.github.com/repos/weolopez/server/subscribers
+undefinedsubscription_url : https://api.github.com/repos/weolopez/server/subscription
+undefinedcommits_url : https://api.github.com/repos/weolopez/server/commits{/sha}
+undefinedgit_commits_url : https://api.github.com/repos/weolopez/server/git/commits{/sha}
+undefinedcomments_url : https://api.github.com/repos/weolopez/server/comments{/number}
+undefinedissue_comment_url : https://api.github.com/repos/weolopez/server/issues/comments{/number}
+undefinedcontents_url : https://api.github.com/repos/weolopez/server/contents/{+path}
+undefinedcompare_url : https://api.github.com/repos/weolopez/server/compare/{base}...{head}
+undefinedmerges_url : https://api.github.com/repos/weolopez/server/merges
+undefinedarchive_url : https://api.github.com/repos/weolopez/server/{archive_format}{/ref}
+undefineddownloads_url : https://api.github.com/repos/weolopez/server/downloads
+undefinedissues_url : https://api.github.com/repos/weolopez/server/issues{/number}
+undefinedpulls_url : https://api.github.com/repos/weolopez/server/pulls{/number}
+undefinedmilestones_url : https://api.github.com/repos/weolopez/server/milestones{/number}
+undefinednotifications_url : https://api.github.com/repos/weolopez/server/notifications{?since,all,participating}
+undefinedlabels_url : https://api.github.com/repos/weolopez/server/labels{/name}
+undefinedreleases_url : https://api.github.com/repos/weolopez/server/releases{/id}
+undefineddeployments_url : https://api.github.com/repos/weolopez/server/deployments
+undefinedcreated_at : 1494009861
+undefinedupdated_at : 2017-05-05T21:56:01Z
+undefinedpushed_at : 1494082370
+undefinedgit_url : git://github.com/weolopez/server.git
+undefinedssh_url : git@github.com:weolopez/server.git
+undefinedclone_url : https://github.com/weolopez/server.git
+undefinedsvn_url : https://github.com/weolopez/server
+undefinedhomepage : null
+undefinedsize : 33
+undefinedstargazers_count : 0
+undefinedwatchers_count : 0
+undefinedlanguage : TypeScript
+undefinedhas_issues : true
+undefinedhas_projects : true
+undefinedhas_downloads : true
+undefinedhas_wiki : true
+undefinedhas_pages : false
+undefinedforks_count : 0
+undefinedmirror_url : null
+undefinedopen_issues_count : 0
+undefinedforks : 0
+undefinedopen_issues : 0
+undefinedwatchers : 0
+undefineddefault_branch : master
+undefinedstargazers : 0
+undefinedmaster_branch : master
+undefinedpusher : [object Object]
+undefinedname : weolopez
+undefinedemail : weolopez@gmail.com
+undefinedsender : [object Object]
+undefinedlogin : weolopez
+undefinedid : 1511462
+undefinedavatar_url : https://avatars3.githubusercontent.com/u/1511462?v=3
+undefinedgravatar_id : 
+undefinedurl : https://api.github.com/users/weolopez
+undefinedhtml_url : https://github.com/weolopez
+undefinedfollowers_url : https://api.github.com/users/weolopez/followers
+undefinedfollowing_url : https://api.github.com/users/weolopez/following{/other_user}
+undefinedgists_url : https://api.github.com/users/weolopez/gists{/gist_id}
+undefinedstarred_url : https://api.github.com/users/weolopez/starred{/owner}{/repo}
+undefinedsubscriptions_url : https://api.github.com/users/weolopez/subscriptions
+undefinedorganizations_url : https://api.github.com/users/weolopez/orgs
+undefinedrepos_url : https://api.github.com/users/weolopez/repos
+undefinedevents_url : https://api.github.com/users/weolopez/events{/privacy}
+undefinedreceived_events_url : https://api.github.com/users/weolopez/received_events
+undefinedtype : User
+undefinedsite_admin : false
+stderr: 
+stdout: /home/weolopez/github/serv
+
+[0mPOST /api/v1/heroes [32m200 [0m221.142 ms - 42[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node dist/index.js`[39m
+undefinedref : refs/heads/master
+undefinedbefore : e7e0ed626d863724ce20e9e4ac3db5b140b699f1
+undefinedafter : 514353ea27533fc3626794e67eaecbf5c652f7fc
+undefinedcreated : false
+undefineddeleted : false
+undefinedforced : false
+undefinedbase_ref : null
+undefinedcompare : https://github.com/weolopez/server/compare/e7e0ed626d86...514353ea2753
+undefinedcommits : [object Object]
+undefined0 : [object Object]
+undefinedid : 514353ea27533fc3626794e67eaecbf5c652f7fc
+undefinedtree_id : a7a6e82263a88a98079e31e86b175cc0bc2c3130
+undefineddistinct : true
+undefinedmessage : Update README.md
+undefinedtimestamp : 2017-05-06T10:52:49-04:00
+undefinedurl : https://github.com/weolopez/server/commit/514353ea27533fc3626794e67eaecbf5c652f7fc
+undefinedauthor : [object Object]
+undefinedname : Mauricio Lopez
+undefinedemail : weolopez@gmail.com
+undefinedusername : weolopez
+undefinedcommitter : [object Object]
+undefinedname : GitHub
+undefinedemail : noreply@github.com
+undefinedusername : web-flow
+undefinedadded : 
+undefinedremoved : 
+undefinedmodified : README.md
+undefined0 : README.md
+undefinedhead_commit : [object Object]
+undefinedid : 514353ea27533fc3626794e67eaecbf5c652f7fc
+undefinedtree_id : a7a6e82263a88a98079e31e86b175cc0bc2c3130
+undefineddistinct : true
+undefinedmessage : Update README.md
+undefinedtimestamp : 2017-05-06T10:52:49-04:00
+undefinedurl : https://github.com/weolopez/server/commit/514353ea27533fc3626794e67eaecbf5c652f7fc
+undefinedauthor : [object Object]
+undefinedname : Mauricio Lopez
+undefinedemail : weolopez@gmail.com
+undefinedusername : weolopez
+undefinedcommitter : [object Object]
+undefinedname : GitHub
+undefinedemail : noreply@github.com
+undefinedusername : web-flow
+undefinedadded : 
+undefinedremoved : 
+undefinedmodified : README.md
+undefined0 : README.md
+undefinedrepository : [object Object]
+undefinedid : 90406666
+undefinedname : server
+undefinedfull_name : weolopez/server
+undefinedowner : [object Object]
+undefinedname : weolopez
+undefinedemail : weolopez@gmail.com
+undefinedlogin : weolopez
+undefinedid : 1511462
+undefinedavatar_url : https://avatars3.githubusercontent.com/u/1511462?v=3
+undefinedgravatar_id : 
+undefinedurl : https://api.github.com/users/weolopez
+undefinedhtml_url : https://github.com/weolopez
+undefinedfollowers_url : https://api.github.com/users/weolopez/followers
+undefinedfollowing_url : https://api.github.com/users/weolopez/following{/other_user}
+undefinedgists_url : https://api.github.com/users/weolopez/gists{/gist_id}
+undefinedstarred_url : https://api.github.com/users/weolopez/starred{/owner}{/repo}
+undefinedsubscriptions_url : https://api.github.com/users/weolopez/subscriptions
+undefinedorganizations_url : https://api.github.com/users/weolopez/orgs
+undefinedrepos_url : https://api.github.com/users/weolopez/repos
+undefinedevents_url : https://api.github.com/users/weolopez/events{/privacy}
+undefinedreceived_events_url : https://api.github.com/users/weolopez/received_events
+undefinedtype : User
+undefinedsite_admin : false
+undefinedprivate : false
+undefinedhtml_url : https://github.com/weolopez/server
+undefineddescription : null
+undefinedfork : false
+undefinedurl : https://github.com/weolopez/server
+undefinedforks_url : https://api.github.com/repos/weolopez/server/forks
+undefinedkeys_url : https://api.github.com/repos/weolopez/server/keys{/key_id}
+undefinedcollaborators_url : https://api.github.com/repos/weolopez/server/collaborators{/collaborator}
+undefinedteams_url : https://api.github.com/repos/weolopez/server/teams
+undefinedhooks_url : https://api.github.com/repos/weolopez/server/hooks
+undefinedissue_events_url : https://api.github.com/repos/weolopez/server/issues/events{/number}
+undefinedevents_url : https://api.github.com/repos/weolopez/server/events
+undefinedassignees_url : https://api.github.com/repos/weolopez/server/assignees{/user}
+undefinedbranches_url : https://api.github.com/repos/weolopez/server/branches{/branch}
+undefinedtags_url : https://api.github.com/repos/weolopez/server/tags
+undefinedblobs_url : https://api.github.com/repos/weolopez/server/git/blobs{/sha}
+undefinedgit_tags_url : https://api.github.com/repos/weolopez/server/git/tags{/sha}
+undefinedgit_refs_url : https://api.github.com/repos/weolopez/server/git/refs{/sha}
+undefinedtrees_url : https://api.github.com/repos/weolopez/server/git/trees{/sha}
+undefinedstatuses_url : https://api.github.com/repos/weolopez/server/statuses/{sha}
+undefinedlanguages_url : https://api.github.com/repos/weolopez/server/languages
+undefinedstargazers_url : https://api.github.com/repos/weolopez/server/stargazers
+undefinedcontributors_url : https://api.github.com/repos/weolopez/server/contributors
+undefinedsubscribers_url : https://api.github.com/repos/weolopez/server/subscribers
+undefinedsubscription_url : https://api.github.com/repos/weolopez/server/subscription
+undefinedcommits_url : https://api.github.com/repos/weolopez/server/commits{/sha}
+undefinedgit_commits_url : https://api.github.com/repos/weolopez/server/git/commits{/sha}
+undefinedcomments_url : https://api.github.com/repos/weolopez/server/comments{/number}
+undefinedissue_comment_url : https://api.github.com/repos/weolopez/server/issues/comments{/number}
+undefinedcontents_url : https://api.github.com/repos/weolopez/server/contents/{+path}
+undefinedcompare_url : https://api.github.com/repos/weolopez/server/compare/{base}...{head}
+undefinedmerges_url : https://api.github.com/repos/weolopez/server/merges
+undefinedarchive_url : https://api.github.com/repos/weolopez/server/{archive_format}{/ref}
+undefineddownloads_url : https://api.github.com/repos/weolopez/server/downloads
+undefinedissues_url : https://api.github.com/repos/weolopez/server/issues{/number}
+undefinedpulls_url : https://api.github.com/repos/weolopez/server/pulls{/number}
+undefinedmilestones_url : https://api.github.com/repos/weolopez/server/milestones{/number}
+undefinednotifications_url : https://api.github.com/repos/weolopez/server/notifications{?since,all,participating}
+undefinedlabels_url : https://api.github.com/repos/weolopez/server/labels{/name}
+undefinedreleases_url : https://api.github.com/repos/weolopez/server/releases{/id}
+undefineddeployments_url : https://api.github.com/repos/weolopez/server/deployments
+undefinedcreated_at : 1494009861
+undefinedupdated_at : 2017-05-05T21:56:01Z
+undefinedpushed_at : 1494082370
+undefinedgit_url : git://github.com/weolopez/server.git
+undefinedssh_url : git@github.com:weolopez/server.git
+undefinedclone_url : https://github.com/weolopez/server.git
+undefinedsvn_url : https://github.com/weolopez/server
+undefinedhomepage : null
+undefinedsize : 33
+undefinedstargazers_count : 0
+undefinedwatchers_count : 0
+undefinedlanguage : TypeScript
+undefinedhas_issues : true
+undefinedhas_projects : true
+undefinedhas_downloads : true
+undefinedhas_wiki : true
+undefinedhas_pages : false
+undefinedforks_count : 0
+undefinedmirror_url : null
+undefinedopen_issues_count : 0
+undefinedforks : 0
+undefinedopen_issues : 0
+undefinedwatchers : 0
+undefineddefault_branch : master
+undefinedstargazers : 0
+undefinedmaster_branch : master
+undefinedpusher : [object Object]
+undefinedname : weolopez
+undefinedemail : weolopez@gmail.com
+undefinedsender : [object Object]
+undefinedlogin : weolopez
+undefinedid : 1511462
+undefinedavatar_url : https://avatars3.githubusercontent.com/u/1511462?v=3
+undefinedgravatar_id : 
+undefinedurl : https://api.github.com/users/weolopez
+undefinedhtml_url : https://github.com/weolopez
+undefinedfollowers_url : https://api.github.com/users/weolopez/followers
+undefinedfollowing_url : https://api.github.com/users/weolopez/following{/other_user}
+undefinedgists_url : https://api.github.com/users/weolopez/gists{/gist_id}
+undefinedstarred_url : https://api.github.com/users/weolopez/starred{/owner}{/repo}
+undefinedsubscriptions_url : https://api.github.com/users/weolopez/subscriptions
+undefinedorganizations_url : https://api.github.com/users/weolopez/orgs
+undefinedrepos_url : https://api.github.com/users/weolopez/repos
+undefinedevents_url : https://api.github.com/users/weolopez/events{/privacy}
+undefinedreceived_events_url : https://api.github.com/users/weolopez/received_events
+undefinedtype : User
+undefinedsite_admin : false
+stderr: 
+stdout: /home/weolopez/github/serv
+
+[0mPOST /api/v1/heroes [32m200 [0m201.952 ms - 42[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node dist/index.js`[39m
+ref : refs/heads/master
+before : e7e0ed626d863724ce20e9e4ac3db5b140b699f1
+after : 514353ea27533fc3626794e67eaecbf5c652f7fc
+created : false
+deleted : false
+forced : false
+base_ref : null
+compare : https://github.com/weolopez/server/compare/e7e0ed626d86...514353ea2753
+commits : [object Object]
+0 : [object Object]
+id : 514353ea27533fc3626794e67eaecbf5c652f7fc
+tree_id : a7a6e82263a88a98079e31e86b175cc0bc2c3130
+distinct : true
+message : Update README.md
+timestamp : 2017-05-06T10:52:49-04:00
+url : https://github.com/weolopez/server/commit/514353ea27533fc3626794e67eaecbf5c652f7fc
+author : [object Object]
+name : Mauricio Lopez
+email : weolopez@gmail.com
+username : weolopez
+committer : [object Object]
+name : GitHub
+email : noreply@github.com
+username : web-flow
+added : 
+removed : 
+modified : README.md
+0 : README.md
+head_commit : [object Object]
+id : 514353ea27533fc3626794e67eaecbf5c652f7fc
+tree_id : a7a6e82263a88a98079e31e86b175cc0bc2c3130
+distinct : true
+message : Update README.md
+timestamp : 2017-05-06T10:52:49-04:00
+url : https://github.com/weolopez/server/commit/514353ea27533fc3626794e67eaecbf5c652f7fc
+author : [object Object]
+name : Mauricio Lopez
+email : weolopez@gmail.com
+username : weolopez
+committer : [object Object]
+name : GitHub
+email : noreply@github.com
+username : web-flow
+added : 
+removed : 
+modified : README.md
+0 : README.md
+repository : [object Object]
+id : 90406666
+name : server
+full_name : weolopez/server
+owner : [object Object]
+name : weolopez
+email : weolopez@gmail.com
+login : weolopez
+id : 1511462
+avatar_url : https://avatars3.githubusercontent.com/u/1511462?v=3
+gravatar_id : 
+url : https://api.github.com/users/weolopez
+html_url : https://github.com/weolopez
+followers_url : https://api.github.com/users/weolopez/followers
+following_url : https://api.github.com/users/weolopez/following{/other_user}
+gists_url : https://api.github.com/users/weolopez/gists{/gist_id}
+starred_url : https://api.github.com/users/weolopez/starred{/owner}{/repo}
+subscriptions_url : https://api.github.com/users/weolopez/subscriptions
+organizations_url : https://api.github.com/users/weolopez/orgs
+repos_url : https://api.github.com/users/weolopez/repos
+events_url : https://api.github.com/users/weolopez/events{/privacy}
+received_events_url : https://api.github.com/users/weolopez/received_events
+type : User
+site_admin : false
+private : false
+html_url : https://github.com/weolopez/server
+description : null
+fork : false
+url : https://github.com/weolopez/server
+forks_url : https://api.github.com/repos/weolopez/server/forks
+keys_url : https://api.github.com/repos/weolopez/server/keys{/key_id}
+collaborators_url : https://api.github.com/repos/weolopez/server/collaborators{/collaborator}
+teams_url : https://api.github.com/repos/weolopez/server/teams
+hooks_url : https://api.github.com/repos/weolopez/server/hooks
+issue_events_url : https://api.github.com/repos/weolopez/server/issues/events{/number}
+events_url : https://api.github.com/repos/weolopez/server/events
+assignees_url : https://api.github.com/repos/weolopez/server/assignees{/user}
+branches_url : https://api.github.com/repos/weolopez/server/branches{/branch}
+tags_url : https://api.github.com/repos/weolopez/server/tags
+blobs_url : https://api.github.com/repos/weolopez/server/git/blobs{/sha}
+git_tags_url : https://api.github.com/repos/weolopez/server/git/tags{/sha}
+git_refs_url : https://api.github.com/repos/weolopez/server/git/refs{/sha}
+trees_url : https://api.github.com/repos/weolopez/server/git/trees{/sha}
+statuses_url : https://api.github.com/repos/weolopez/server/statuses/{sha}
+languages_url : https://api.github.com/repos/weolopez/server/languages
+stargazers_url : https://api.github.com/repos/weolopez/server/stargazers
+contributors_url : https://api.github.com/repos/weolopez/server/contributors
+subscribers_url : https://api.github.com/repos/weolopez/server/subscribers
+subscription_url : https://api.github.com/repos/weolopez/server/subscription
+commits_url : https://api.github.com/repos/weolopez/server/commits{/sha}
+git_commits_url : https://api.github.com/repos/weolopez/server/git/commits{/sha}
+comments_url : https://api.github.com/repos/weolopez/server/comments{/number}
+issue_comment_url : https://api.github.com/repos/weolopez/server/issues/comments{/number}
+contents_url : https://api.github.com/repos/weolopez/server/contents/{+path}
+compare_url : https://api.github.com/repos/weolopez/server/compare/{base}...{head}
+merges_url : https://api.github.com/repos/weolopez/server/merges
+archive_url : https://api.github.com/repos/weolopez/server/{archive_format}{/ref}
+downloads_url : https://api.github.com/repos/weolopez/server/downloads
+issues_url : https://api.github.com/repos/weolopez/server/issues{/number}
+pulls_url : https://api.github.com/repos/weolopez/server/pulls{/number}
+milestones_url : https://api.github.com/repos/weolopez/server/milestones{/number}
+notifications_url : https://api.github.com/repos/weolopez/server/notifications{?since,all,participating}
+labels_url : https://api.github.com/repos/weolopez/server/labels{/name}
+releases_url : https://api.github.com/repos/weolopez/server/releases{/id}
+deployments_url : https://api.github.com/repos/weolopez/server/deployments
+created_at : 1494009861
+updated_at : 2017-05-05T21:56:01Z
+pushed_at : 1494082370
+git_url : git://github.com/weolopez/server.git
+ssh_url : git@github.com:weolopez/server.git
+clone_url : https://github.com/weolopez/server.git
+svn_url : https://github.com/weolopez/server
+homepage : null
+size : 33
+stargazers_count : 0
+watchers_count : 0
+language : TypeScript
+has_issues : true
+has_projects : true
+has_downloads : true
+has_wiki : true
+has_pages : false
+forks_count : 0
+mirror_url : null
+open_issues_count : 0
+forks : 0
+open_issues : 0
+watchers : 0
+default_branch : master
+stargazers : 0
+master_branch : master
+pusher : [object Object]
+name : weolopez
+email : weolopez@gmail.com
+sender : [object Object]
+login : weolopez
+id : 1511462
+avatar_url : https://avatars3.githubusercontent.com/u/1511462?v=3
+gravatar_id : 
+url : https://api.github.com/users/weolopez
+html_url : https://github.com/weolopez
+followers_url : https://api.github.com/users/weolopez/followers
+following_url : https://api.github.com/users/weolopez/following{/other_user}
+gists_url : https://api.github.com/users/weolopez/gists{/gist_id}
+starred_url : https://api.github.com/users/weolopez/starred{/owner}{/repo}
+subscriptions_url : https://api.github.com/users/weolopez/subscriptions
+organizations_url : https://api.github.com/users/weolopez/orgs
+repos_url : https://api.github.com/users/weolopez/repos
+events_url : https://api.github.com/users/weolopez/events{/privacy}
+received_events_url : https://api.github.com/users/weolopez/received_events
+type : User
+site_admin : false
+stderr: 
+stdout: /home/weolopez/github/serv
+
+[0mPOST /api/v1/heroes [32m200 [0m228.898 ms - 42[0m
+ref : refs/heads/master
+before : 514353ea27533fc3626794e67eaecbf5c652f7fc
+after : 0fc046e7fafffaad9a7aab1e65e7590451ecc032
+created : false
+deleted : false
+forced : false
+base_ref : null
+compare : https://github.com/weolopez/server/compare/514353ea2753...0fc046e7faff
+commits : [object Object]
+0 : [object Object]
+id : 0fc046e7fafffaad9a7aab1e65e7590451ecc032
+tree_id : fb59d7cd32fa5863e39578e51bed9fd11c2ac230
+distinct : true
+message : Update README.md
+timestamp : 2017-05-06T11:59:44-04:00
+url : https://github.com/weolopez/server/commit/0fc046e7fafffaad9a7aab1e65e7590451ecc032
+author : [object Object]
+name : Mauricio Lopez
+email : weolopez@gmail.com
+username : weolopez
+committer : [object Object]
+name : GitHub
+email : noreply@github.com
+username : web-flow
+added : 
+removed : 
+modified : README.md
+0 : README.md
+head_commit : [object Object]
+id : 0fc046e7fafffaad9a7aab1e65e7590451ecc032
+tree_id : fb59d7cd32fa5863e39578e51bed9fd11c2ac230
+distinct : true
+message : Update README.md
+timestamp : 2017-05-06T11:59:44-04:00
+url : https://github.com/weolopez/server/commit/0fc046e7fafffaad9a7aab1e65e7590451ecc032
+author : [object Object]
+name : Mauricio Lopez
+email : weolopez@gmail.com
+username : weolopez
+committer : [object Object]
+name : GitHub
+email : noreply@github.com
+username : web-flow
+added : 
+removed : 
+modified : README.md
+0 : README.md
+repository : [object Object]
+id : 90406666
+name : server
+full_name : weolopez/server
+owner : [object Object]
+name : weolopez
+email : weolopez@gmail.com
+login : weolopez
+id : 1511462
+avatar_url : https://avatars3.githubusercontent.com/u/1511462?v=3
+gravatar_id : 
+url : https://api.github.com/users/weolopez
+html_url : https://github.com/weolopez
+followers_url : https://api.github.com/users/weolopez/followers
+following_url : https://api.github.com/users/weolopez/following{/other_user}
+gists_url : https://api.github.com/users/weolopez/gists{/gist_id}
+starred_url : https://api.github.com/users/weolopez/starred{/owner}{/repo}
+subscriptions_url : https://api.github.com/users/weolopez/subscriptions
+organizations_url : https://api.github.com/users/weolopez/orgs
+repos_url : https://api.github.com/users/weolopez/repos
+events_url : https://api.github.com/users/weolopez/events{/privacy}
+received_events_url : https://api.github.com/users/weolopez/received_events
+type : User
+site_admin : false
+private : false
+html_url : https://github.com/weolopez/server
+description : null
+fork : false
+url : https://github.com/weolopez/server
+forks_url : https://api.github.com/repos/weolopez/server/forks
+keys_url : https://api.github.com/repos/weolopez/server/keys{/key_id}
+collaborators_url : https://api.github.com/repos/weolopez/server/collaborators{/collaborator}
+teams_url : https://api.github.com/repos/weolopez/server/teams
+hooks_url : https://api.github.com/repos/weolopez/server/hooks
+issue_events_url : https://api.github.com/repos/weolopez/server/issues/events{/number}
+events_url : https://api.github.com/repos/weolopez/server/events
+assignees_url : https://api.github.com/repos/weolopez/server/assignees{/user}
+branches_url : https://api.github.com/repos/weolopez/server/branches{/branch}
+tags_url : https://api.github.com/repos/weolopez/server/tags
+blobs_url : https://api.github.com/repos/weolopez/server/git/blobs{/sha}
+git_tags_url : https://api.github.com/repos/weolopez/server/git/tags{/sha}
+git_refs_url : https://api.github.com/repos/weolopez/server/git/refs{/sha}
+trees_url : https://api.github.com/repos/weolopez/server/git/trees{/sha}
+statuses_url : https://api.github.com/repos/weolopez/server/statuses/{sha}
+languages_url : https://api.github.com/repos/weolopez/server/languages
+stargazers_url : https://api.github.com/repos/weolopez/server/stargazers
+contributors_url : https://api.github.com/repos/weolopez/server/contributors
+subscribers_url : https://api.github.com/repos/weolopez/server/subscribers
+subscription_url : https://api.github.com/repos/weolopez/server/subscription
+commits_url : https://api.github.com/repos/weolopez/server/commits{/sha}
+git_commits_url : https://api.github.com/repos/weolopez/server/git/commits{/sha}
+comments_url : https://api.github.com/repos/weolopez/server/comments{/number}
+issue_comment_url : https://api.github.com/repos/weolopez/server/issues/comments{/number}
+contents_url : https://api.github.com/repos/weolopez/server/contents/{+path}
+compare_url : https://api.github.com/repos/weolopez/server/compare/{base}...{head}
+merges_url : https://api.github.com/repos/weolopez/server/merges
+archive_url : https://api.github.com/repos/weolopez/server/{archive_format}{/ref}
+downloads_url : https://api.github.com/repos/weolopez/server/downloads
+issues_url : https://api.github.com/repos/weolopez/server/issues{/number}
+pulls_url : https://api.github.com/repos/weolopez/server/pulls{/number}
+milestones_url : https://api.github.com/repos/weolopez/server/milestones{/number}
+notifications_url : https://api.github.com/repos/weolopez/server/notifications{?since,all,participating}
+labels_url : https://api.github.com/repos/weolopez/server/labels{/name}
+releases_url : https://api.github.com/repos/weolopez/server/releases{/id}
+deployments_url : https://api.github.com/repos/weolopez/server/deployments
+created_at : 1494009861
+updated_at : 2017-05-05T21:56:01Z
+pushed_at : 1494086385
+git_url : git://github.com/weolopez/server.git
+ssh_url : git@github.com:weolopez/server.git
+clone_url : https://github.com/weolopez/server.git
+svn_url : https://github.com/weolopez/server
+homepage : null
+size : 34
+stargazers_count : 0
+watchers_count : 0
+language : TypeScript
+has_issues : true
+has_projects : true
+has_downloads : true
+has_wiki : true
+has_pages : false
+forks_count : 0
+mirror_url : null
+open_issues_count : 0
+forks : 0
+open_issues : 0
+watchers : 0
+default_branch : master
+stargazers : 0
+master_branch : master
+pusher : [object Object]
+name : weolopez
+email : weolopez@gmail.com
+sender : [object Object]
+login : weolopez
+id : 1511462
+avatar_url : https://avatars3.githubusercontent.com/u/1511462?v=3
+gravatar_id : 
+url : https://api.github.com/users/weolopez
+html_url : https://github.com/weolopez
+followers_url : https://api.github.com/users/weolopez/followers
+following_url : https://api.github.com/users/weolopez/following{/other_user}
+gists_url : https://api.github.com/users/weolopez/gists{/gist_id}
+starred_url : https://api.github.com/users/weolopez/starred{/owner}{/repo}
+subscriptions_url : https://api.github.com/users/weolopez/subscriptions
+organizations_url : https://api.github.com/users/weolopez/orgs
+repos_url : https://api.github.com/users/weolopez/repos
+events_url : https://api.github.com/users/weolopez/events{/privacy}
+received_events_url : https://api.github.com/users/weolopez/received_events
+type : User
+site_admin : false
+stderr: 
+stdout: /home/weolopez/github/serv
+
+[0mPOST /api/v1/heroes [32m200 [0m116.655 ms - 42[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node dist/index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node dist/index.js`[39m
+[0mPOST /api/v1/heroes [31m500 [0m156.243 ms - 1170[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node dist/index.js`[39m
+stderr: From https://github.com/weolopez/server
+   8f6aa90..0fc046e  master     -> origin/master
+
+stdout: Updating 8f6aa90..0fc046e
+Fast-forward
+ README.md | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+[0mPOST /api/v1/heroes [32m200 [0m665.115 ms - 124[0m
