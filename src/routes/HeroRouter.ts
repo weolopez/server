@@ -63,7 +63,7 @@ const
     
 
 console.log( `stderror: ${ls.stderr.toString()}` );
-console.log( `stdout: ${ls.stdout.toString()}` );
+console.log( `stdo: ${ls.stdout.toString()}` );
 
     res.status(200)
       .send({
